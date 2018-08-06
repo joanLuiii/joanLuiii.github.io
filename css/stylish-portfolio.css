@@ -92,7 +92,7 @@ h6 {
   height: auto;
   padding-top: 8rem;
   padding-bottom: 8rem;
-  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/bg-masthead.jpg");
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/landingWallpaper.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -126,7 +126,7 @@ h6 {
   -o-transition: all 0.4s ease 0s;
   transition: all 0.4s ease 0s;
   transform: translateX(250px);
-  background: #1D809F;
+  background: #24272b;
   border-left: 1px solid rgba(255, 255, 255, 0.1);
 }
 
@@ -258,7 +258,7 @@ h6 {
 }
 
 .portfolio-item .caption .caption-content h2 {
-  font-size: 0.8rem;
+  font-size: 1.6rem;
   text-transform: uppercase;
 }
 
