@@ -1,0 +1,966 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="4417px" height="3031px" viewBox="0 0 4417 3031" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="47.7518314%" x2="50%" y2="67.5960758%" id="linearGradient-1">
+            <stop stop-color="#61C8D0" offset="0%"></stop>
+            <stop stop-color="#007BBD" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="48.2957917%" x2="50%" y2="67.5960758%" id="linearGradient-2">
+            <stop stop-color="#32A2C6" offset="0%"></stop>
+            <stop stop-color="#007BBD" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="47.7518314%" x2="50%" y2="67.5960758%" id="linearGradient-3">
+            <stop stop-color="#61C8D0" offset="0%"></stop>
+            <stop stop-color="#32A2C6" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="47.7518314%" x2="50%" y2="67.5960758%" id="linearGradient-4">
+            <stop stop-color="#61C8D0" offset="0%"></stop>
+            <stop stop-color="#61C8D0" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-5" x="16" y="499" width="150" height="90" rx="8"></rect>
+        <filter x="-4.7%" y="-5.6%" width="109.3%" height="115.6%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-7" x="16" y="701" width="150" height="90" rx="8"></rect>
+        <filter x="-4.7%" y="-5.6%" width="109.3%" height="115.6%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-9" x="17" y="993" width="147" height="90" rx="8"></rect>
+        <filter x="-4.8%" y="-5.6%" width="109.5%" height="115.6%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-11" x="283" y="995" width="233" height="90" rx="8"></rect>
+        <filter x="-3.0%" y="-5.6%" width="106.0%" height="115.6%" filterUnits="objectBoundingBox" id="filter-12">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-13" x="16" y="1196" width="147" height="90" rx="8"></rect>
+        <filter x="-4.8%" y="-5.6%" width="109.5%" height="115.6%" filterUnits="objectBoundingBox" id="filter-14">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-15" x="16" y="1392" width="147" height="90" rx="8"></rect>
+        <filter x="-4.8%" y="-5.6%" width="109.5%" height="115.6%" filterUnits="objectBoundingBox" id="filter-16">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-17" x="20" y="1694" width="147" height="90" rx="8"></rect>
+        <filter x="-4.8%" y="-5.6%" width="109.5%" height="115.6%" filterUnits="objectBoundingBox" id="filter-18">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-19" x="581" y="1696" width="233" height="90" rx="8"></rect>
+        <filter x="-3.0%" y="-5.6%" width="106.0%" height="115.6%" filterUnits="objectBoundingBox" id="filter-20">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-21" x="21" y="1995" width="147" height="90" rx="8"></rect>
+        <filter x="-4.8%" y="-5.6%" width="109.5%" height="115.6%" filterUnits="objectBoundingBox" id="filter-22">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-23" x="283" y="1996" width="233" height="90" rx="8"></rect>
+        <filter x="-3.0%" y="-5.6%" width="106.0%" height="115.6%" filterUnits="objectBoundingBox" id="filter-24">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-25" x="21" y="2193" width="147" height="90" rx="8"></rect>
+        <filter x="-4.8%" y="-5.6%" width="109.5%" height="115.6%" filterUnits="objectBoundingBox" id="filter-26">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-27" x="582" y="1194" width="233" height="90" rx="8"></rect>
+        <filter x="-3.0%" y="-5.6%" width="106.0%" height="115.6%" filterUnits="objectBoundingBox" id="filter-28">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-29" x="579" y="1995" width="233" height="90" rx="8"></rect>
+        <filter x="-3.0%" y="-5.6%" width="106.0%" height="115.6%" filterUnits="objectBoundingBox" id="filter-30">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-31" x="881" y="1994" width="233" height="90" rx="8"></rect>
+        <filter x="-3.0%" y="-5.6%" width="106.0%" height="115.6%" filterUnits="objectBoundingBox" id="filter-32">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-33" x="1180" y="1992" width="233" height="90" rx="8"></rect>
+        <filter x="-3.0%" y="-5.6%" width="106.0%" height="115.6%" filterUnits="objectBoundingBox" id="filter-34">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-35" x="1483" y="1993" width="233" height="90" rx="8"></rect>
+        <filter x="-3.0%" y="-5.6%" width="106.0%" height="115.6%" filterUnits="objectBoundingBox" id="filter-36">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-37" x="2081" y="1992" width="233" height="90" rx="8"></rect>
+        <filter x="-3.0%" y="-5.6%" width="106.0%" height="115.6%" filterUnits="objectBoundingBox" id="filter-38">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-39" x="2682" y="1994" width="233" height="90" rx="8"></rect>
+        <filter x="-3.0%" y="-5.6%" width="106.0%" height="115.6%" filterUnits="objectBoundingBox" id="filter-40">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-41" x="1484" y="1195" width="233" height="90" rx="8"></rect>
+        <filter x="-3.0%" y="-5.6%" width="106.0%" height="115.6%" filterUnits="objectBoundingBox" id="filter-42">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-43" x="1783" y="1197" width="233" height="90" rx="8"></rect>
+        <filter x="-3.0%" y="-5.6%" width="106.0%" height="115.6%" filterUnits="objectBoundingBox" id="filter-44">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-45" x="2383" y="1694" width="233" height="90" rx="8"></rect>
+        <filter x="-3.0%" y="-5.6%" width="106.0%" height="115.6%" filterUnits="objectBoundingBox" id="filter-46">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-47" x="2682" y="1694" width="233" height="90" rx="8"></rect>
+        <filter x="-3.0%" y="-5.6%" width="106.0%" height="115.6%" filterUnits="objectBoundingBox" id="filter-48">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-49" x="582" y="1392" width="233" height="90" rx="8"></rect>
+        <filter x="-3.0%" y="-5.6%" width="106.0%" height="115.6%" filterUnits="objectBoundingBox" id="filter-50">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-51" x="1481" y="1391" width="233" height="90" rx="8"></rect>
+        <filter x="-3.0%" y="-5.6%" width="106.0%" height="115.6%" filterUnits="objectBoundingBox" id="filter-52">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-53" x="581" y="996" width="233" height="90" rx="8"></rect>
+        <filter x="-3.0%" y="-5.6%" width="106.0%" height="115.6%" filterUnits="objectBoundingBox" id="filter-54">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-55" x="1782" y="1391" width="233" height="90" rx="8"></rect>
+        <filter x="-3.0%" y="-5.6%" width="106.0%" height="115.6%" filterUnits="objectBoundingBox" id="filter-56">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-57" x="1482" y="995" width="233" height="90" rx="8"></rect>
+        <filter x="-3.0%" y="-5.6%" width="106.0%" height="115.6%" filterUnits="objectBoundingBox" id="filter-58">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-59" x="1782" y="996" width="233" height="90" rx="8"></rect>
+        <filter x="-3.0%" y="-5.6%" width="106.0%" height="115.6%" filterUnits="objectBoundingBox" id="filter-60">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="24.3507148%" y1="0%" x2="74.3611919%" y2="0%" id="linearGradient-61">
+            <stop stop-color="#61C8D0" offset="0%"></stop>
+            <stop stop-color="#007BBD" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-62" x="0" y="0" width="3859" height="63" rx="8"></rect>
+        <filter x="-0.2%" y="-7.9%" width="100.4%" height="122.2%" filterUnits="objectBoundingBox" id="filter-63">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="34.5451812%" x2="50%" y2="80.2657835%" id="linearGradient-64">
+            <stop stop-color="#98DCE1" offset="0%"></stop>
+            <stop stop-color="#59BFC6" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="34.5451812%" x2="50%" y2="45.571589%" id="linearGradient-65">
+            <stop stop-color="#98DCE1" offset="0%"></stop>
+            <stop stop-color="#59BFC6" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="34.5451812%" x2="50%" y2="80.2657835%" id="linearGradient-66">
+            <stop stop-color="#98DCE1" offset="0%"></stop>
+            <stop stop-color="#007BBD" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="50%" x2="50%" y2="100%" id="linearGradient-67">
+            <stop stop-color="#98DCE1" offset="0%"></stop>
+            <stop stop-color="#59BFC6" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="18.3910588%" x2="50%" y2="67.5960758%" id="linearGradient-68">
+            <stop stop-color="#61C8D0" offset="0%"></stop>
+            <stop stop-color="#007BBD" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-69" x="581" y="501" width="233" height="90" rx="8"></rect>
+        <filter x="-3.0%" y="-5.6%" width="106.0%" height="115.6%" filterUnits="objectBoundingBox" id="filter-70">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-71" x="2980" y="1994" width="233" height="90" rx="8"></rect>
+        <filter x="-3.0%" y="-5.6%" width="106.0%" height="115.6%" filterUnits="objectBoundingBox" id="filter-72">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-73" x="3282" y="1994" width="233" height="90" rx="8"></rect>
+        <filter x="-3.0%" y="-5.6%" width="106.0%" height="115.6%" filterUnits="objectBoundingBox" id="filter-74">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M3290,1695 L3507,1695 C3511.41828,1695 3515,1698.58172 3515,1703 L3515,1777 C3515,1781.41828 3511.41828,1785 3507,1785 L3333.19575,1785 L3290,1785 C3285.58172,1785 3282,1781.41828 3282,1777 L3282,1703 C3282,1698.58172 3285.58172,1695 3290,1695 Z" id="path-75"></path>
+        <filter x="-3.0%" y="-5.6%" width="106.0%" height="115.6%" filterUnits="objectBoundingBox" id="filter-76">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-77" x="3282" y="1395" width="233" height="90" rx="8"></rect>
+        <filter x="-3.0%" y="-5.6%" width="106.0%" height="115.6%" filterUnits="objectBoundingBox" id="filter-78">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-79" x="3283" y="1195" width="233" height="90" rx="8"></rect>
+        <filter x="-3.0%" y="-5.6%" width="106.0%" height="115.6%" filterUnits="objectBoundingBox" id="filter-80">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-81" x="3283" y="995" width="233" height="90" rx="8"></rect>
+        <filter x="-3.0%" y="-5.6%" width="106.0%" height="115.6%" filterUnits="objectBoundingBox" id="filter-82">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-83" x="3583" y="2201" width="233" height="90" rx="8"></rect>
+        <filter x="-3.0%" y="-5.6%" width="106.0%" height="115.6%" filterUnits="objectBoundingBox" id="filter-84">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-85" x="3582" y="1994" width="233" height="90" rx="8"></rect>
+        <filter x="-3.0%" y="-5.6%" width="106.0%" height="115.6%" filterUnits="objectBoundingBox" id="filter-86">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-87" x="3582" y="1694" width="233" height="90" rx="8"></rect>
+        <filter x="-3.0%" y="-5.6%" width="106.0%" height="115.6%" filterUnits="objectBoundingBox" id="filter-88">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-89" x="3582" y="1395" width="233" height="90" rx="8"></rect>
+        <filter x="-3.0%" y="-5.6%" width="106.0%" height="115.6%" filterUnits="objectBoundingBox" id="filter-90">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-91" x="3583" y="1195" width="233" height="90" rx="8"></rect>
+        <filter x="-3.0%" y="-5.6%" width="106.0%" height="115.6%" filterUnits="objectBoundingBox" id="filter-92">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-93" x="3582" y="996" width="233" height="90" rx="8"></rect>
+        <filter x="-3.0%" y="-5.6%" width="106.0%" height="115.6%" filterUnits="objectBoundingBox" id="filter-94">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-95" x="3582" y="702" width="233" height="90" rx="8"></rect>
+        <filter x="-3.0%" y="-5.6%" width="106.0%" height="115.6%" filterUnits="objectBoundingBox" id="filter-96">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-97" x="3582" y="504" width="233" height="90" rx="8"></rect>
+        <filter x="-3.0%" y="-5.6%" width="106.0%" height="115.6%" filterUnits="objectBoundingBox" id="filter-98">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-99" x="2683" y="1393" width="233" height="90" rx="8"></rect>
+        <filter x="-3.0%" y="-5.6%" width="106.0%" height="115.6%" filterUnits="objectBoundingBox" id="filter-100">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-101" x="2682" y="1195" width="233" height="90" rx="8"></rect>
+        <filter x="-3.0%" y="-5.6%" width="106.0%" height="115.6%" filterUnits="objectBoundingBox" id="filter-102">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-103" x="2682" y="996" width="233" height="127" rx="8"></rect>
+        <filter x="-3.0%" y="-3.9%" width="106.0%" height="111.0%" filterUnits="objectBoundingBox" id="filter-104">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-105" x="2678" y="503" width="233" height="90" rx="8"></rect>
+        <filter x="-3.0%" y="-5.6%" width="106.0%" height="115.6%" filterUnits="objectBoundingBox" id="filter-106">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-107" x="2382" y="1194" width="233" height="90" rx="8"></rect>
+        <filter x="-3.0%" y="-5.6%" width="106.0%" height="115.6%" filterUnits="objectBoundingBox" id="filter-108">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-109" x="2383" y="503" width="233" height="90" rx="8"></rect>
+        <filter x="-3.0%" y="-5.6%" width="106.0%" height="115.6%" filterUnits="objectBoundingBox" id="filter-110">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-111" x="283" y="698" width="233" height="90" rx="8"></rect>
+        <filter x="-3.0%" y="-5.6%" width="106.0%" height="115.6%" filterUnits="objectBoundingBox" id="filter-112">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-113" x="882" y="995" width="214" height="103" rx="8"></rect>
+        <filter x="-3.3%" y="-4.9%" width="106.5%" height="113.6%" filterUnits="objectBoundingBox" id="filter-114">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-115" x="2980" y="701" width="233" height="90" rx="8"></rect>
+        <filter x="-3.0%" y="-5.6%" width="106.0%" height="115.6%" filterUnits="objectBoundingBox" id="filter-116">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-117" x="2081" y="698" width="233" height="90" rx="8"></rect>
+        <filter x="-3.0%" y="-5.6%" width="106.0%" height="115.6%" filterUnits="objectBoundingBox" id="filter-118">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-119" x="3282" y="701" width="233" height="90" rx="8"></rect>
+        <filter x="-3.0%" y="-5.6%" width="106.0%" height="115.6%" filterUnits="objectBoundingBox" id="filter-120">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-121" x="0" y="0" width="233" height="90" rx="8"></rect>
+        <filter x="-3.0%" y="-5.6%" width="106.0%" height="115.6%" filterUnits="objectBoundingBox" id="filter-122">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Artboard-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SPCA-Adoption-Process" transform="translate(264.000000, 217.000000)">
+            <text id="SPCA-ADPOTION-PROCES" font-family="Raleway-Black, Raleway" font-size="64" font-weight="700" fill="#3D3F4E">
+                <tspan x="355" y="138">SPCA ADPOTION PROCESS</tspan>
+                <tspan x="355" y="213" font-family="Raleway-Medium, Raleway" font-weight="400">Service blueprint depicting adoption process for SPCA</tspan>
+            </text>
+            <rect id="Rectangle-3" fill="#EAE7E7" x="17" y="1582" width="3812" height="13"></rect>
+            <text id="Line-of-Visibility" font-family="Raleway-Thin, Raleway" font-size="24" font-style="condensed" font-weight="300" fill="#000000">
+                <tspan x="25.0784106" y="1577">Line of Visibility</tspan>
+            </text>
+            <rect id="Rectangle-3" fill="#EAE7E7" x="17" y="1888" width="3812" height="13"></rect>
+            <text id="Line-of-Internal-Int" font-family="Raleway-Thin, Raleway" font-size="24" font-style="condensed" font-weight="300" fill="#000000">
+                <tspan x="25.0784106" y="1879">Line of Internal Interactions</tspan>
+            </text>
+            <rect id="Rectangle-3" fill="#EAE7E7" x="17" y="881" width="3812" height="13"></rect>
+            <text id="Line-of-Interaction" font-family="Raleway-Thin, Raleway" font-size="24" font-style="condensed" font-weight="300" fill="#000000">
+                <tspan x="25.0784106" y="876">Line of Interaction</tspan>
+            </text>
+            <path d="M689.5,1081.5 L689.5,1995.5" id="Line" stroke="url(#linearGradient-1)" stroke-width="15" stroke-linecap="square"></path>
+            <path d="M1596.5,1066.5 L1596.5,2014.5" id="Line" stroke="url(#linearGradient-1)" stroke-width="15" stroke-linecap="square"></path>
+            <path d="M2800.5,1723.5 L2800.5,2028.5" id="Line" stroke="url(#linearGradient-2)" stroke-width="15" stroke-linecap="square"></path>
+            <path d="M3399.5,1751.5 L3399.5,2056.5" id="Line" stroke="url(#linearGradient-2)" stroke-width="15" stroke-linecap="square"></path>
+            <path d="M3697.5,1751.5 L3697.5,2212.5" id="Line" stroke="url(#linearGradient-2)" stroke-width="15" stroke-linecap="square"></path>
+            <path d="M2196.5,788.5 L2196.5,2005.5" id="Line" stroke="url(#linearGradient-1)" stroke-width="15" stroke-linecap="square"></path>
+            <path d="M2497.5,1225.5 L2497.5,1731.5" id="Line" stroke="url(#linearGradient-3)" stroke-width="15" stroke-linecap="square"></path>
+            <path d="M3398.5,1410.5 L3398.5,1738.5" id="Line" stroke="url(#linearGradient-3)" stroke-width="15" stroke-linecap="square"></path>
+            <path d="M3696.5,1422.5 L3696.5,1750.5" id="Line" stroke="url(#linearGradient-3)" stroke-width="15" stroke-linecap="square"></path>
+            <path d="M2800.5,1426.5 L2800.5,1712.5" id="Line" stroke="url(#linearGradient-3)" stroke-width="15" stroke-linecap="square"></path>
+            <path d="M1889.5,1011.5 L1889.5,1409.5" id="Line" stroke="url(#linearGradient-4)" stroke-width="15" stroke-linecap="square"></path>
+            <path d="M997.5,1077.5 L997.5,1991.5" id="Line" stroke="url(#linearGradient-1)" stroke-width="15" stroke-linecap="square"></path>
+            <g id="Rectangle-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                <use fill="#98DCE1" fill-rule="evenodd" xlink:href="#path-5"></use>
+            </g>
+            <text id="PHYSICAL-EVIDENCE" font-family="Raleway-Black, Raleway" font-size="18" font-weight="700" fill="#3D3F4E">
+                <tspan x="30" y="540">PHYSICAL </tspan>
+                <tspan x="30" y="561">EVIDENCE</tspan>
+            </text>
+            <g id="Rectangle-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                <use fill="#98DCE1" fill-rule="evenodd" xlink:href="#path-7"></use>
+            </g>
+            <text id="PET-STATUS" font-family="Raleway-Black, Raleway" font-size="18" font-weight="700" fill="#3D3F4E">
+                <tspan x="30" y="742">PET </tspan>
+                <tspan x="30" y="763">STATUS</tspan>
+            </text>
+            <g id="Rectangle-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                <use fill="#61C8D0" fill-rule="evenodd" xlink:href="#path-9"></use>
+            </g>
+            <g id="Rectangle-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
+                <use fill="#61C8D0" fill-rule="evenodd" xlink:href="#path-11"></use>
+            </g>
+            <text id="STAFF-&amp;-VOLUNTEEER-A" font-family="Raleway-Black, Raleway" font-size="18" font-weight="700" fill="#3D3F4E">
+                <tspan x="28" y="1025">STAFF &amp; </tspan>
+                <tspan x="28" y="1046">VOLUNTEEER </tspan>
+                <tspan x="28" y="1067">ACTIONS</tspan>
+            </text>
+            <g id="Rectangle-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href="#path-13"></use>
+                <use fill="#61C8D0" fill-rule="evenodd" xlink:href="#path-13"></use>
+            </g>
+            <text id="ONSTAGE-TECHNOLOGY" font-family="Raleway-Black, Raleway" font-size="18" font-weight="700" fill="#3D3F4E">
+                <tspan x="30" y="1234">ONSTAGE </tspan>
+                <tspan x="30" y="1255">TECHNOLOGY</tspan>
+            </text>
+            <g id="Rectangle-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-16)" xlink:href="#path-15"></use>
+                <use fill="#61C8D0" fill-rule="evenodd" xlink:href="#path-15"></use>
+            </g>
+            <text id="ONSTAGE-ACTIONS" font-family="Raleway-Black, Raleway" font-size="18" font-weight="700" fill="#3D3F4E">
+                <tspan x="30" y="1430">ONSTAGE </tspan>
+                <tspan x="30" y="1451">ACTIONS</tspan>
+            </text>
+            <g id="Rectangle-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-18)" xlink:href="#path-17"></use>
+                <use fill="#32A2C6" fill-rule="evenodd" xlink:href="#path-17"></use>
+            </g>
+            <g id="Rectangle-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-20)" xlink:href="#path-19"></use>
+                <use fill="#32A2C6" fill-rule="evenodd" xlink:href="#path-19"></use>
+            </g>
+            <text id="BACKSTAGE-ACTIONS" font-family="Raleway-Black, Raleway" font-size="18" font-weight="700" fill="#2A2B37">
+                <tspan x="30" y="1732">BACKSTAGE </tspan>
+                <tspan x="30" y="1753">ACTIONS</tspan>
+            </text>
+            <g id="Rectangle-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-22)" xlink:href="#path-21"></use>
+                <use fill="#007BBD" fill-rule="evenodd" xlink:href="#path-21"></use>
+            </g>
+            <g id="Rectangle-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-24)" xlink:href="#path-23"></use>
+                <use fill="#007BBD" fill-rule="evenodd" xlink:href="#path-23"></use>
+            </g>
+            <text id="SUPPORT-PROCESS" font-family="Raleway-Black, Raleway" font-size="18" font-weight="700" fill="#FFFFFF">
+                <tspan x="30" y="2033">SUPPORT </tspan>
+                <tspan x="30" y="2054">PROCESS</tspan>
+            </text>
+            <g id="Rectangle-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-26)" xlink:href="#path-25"></use>
+                <use fill="#007BBD" fill-rule="evenodd" xlink:href="#path-25"></use>
+            </g>
+            <text id="REGULATORY-AUTHORITY" font-family="Raleway-Black, Raleway" font-size="18" font-weight="700" fill="#FFFFFF">
+                <tspan x="30" y="2225">REGULATORY </tspan>
+                <tspan x="30" y="2246">AUTHORITY </tspan>
+                <tspan x="30" y="2267">(AVA)</tspan>
+            </text>
+            <g id="Rectangle-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-28)" xlink:href="#path-27"></use>
+                <use fill="#61C8D0" fill-rule="evenodd" xlink:href="#path-27"></use>
+            </g>
+            <text id="Paper-Document-A" font-family="Nunito-Bold, Nunito" font-size="18" font-weight="bold" fill="#000000">
+                <tspan x="618" y="1229">Paper Document A</tspan>
+            </text>
+            <text id="Public-Walk-in" font-family="Nunito-Bold, Nunito" font-size="18" font-weight="bold" fill="#FFFFFF">
+                <tspan x="332" y="2034">Public Walk in</tspan>
+            </text>
+            <g id="Rectangle-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-30)" xlink:href="#path-29"></use>
+                <use fill="#007BBD" fill-rule="evenodd" xlink:href="#path-29"></use>
+            </g>
+            <text id="Family-Fill-up-Adopt" font-family="Nunito-Bold, Nunito" font-size="18" font-weight="bold" fill="#FFFFFF">
+                <tspan x="604" y="2022">Family Fill up Adoption </tspan>
+                <tspan x="604" y="2046">Registration form</tspan>
+            </text>
+            <g id="Rectangle-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-32)" xlink:href="#path-31"></use>
+                <use fill="#007BBD" fill-rule="evenodd" xlink:href="#path-31"></use>
+            </g>
+            <text id="Family-view-dogs-(al" font-family="Nunito-Bold, Nunito" font-size="18" font-weight="bold" fill="#FFFFFF">
+                <tspan x="906" y="2026">Family view dogs (all </tspan>
+                <tspan x="906" y="2050">dogs)</tspan>
+            </text>
+            <g id="Rectangle-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-34)" xlink:href="#path-33"></use>
+                <use fill="#007BBD" fill-rule="evenodd" xlink:href="#path-33"></use>
+            </g>
+            <text id="Family-spots-a-dogs" font-family="Nunito-Bold, Nunito" font-size="18" font-weight="bold" fill="#FFFFFF">
+                <tspan x="1206" y="2019">Family spots a dogs </tspan>
+                <tspan x="1206" y="2043">they like</tspan>
+            </text>
+            <g id="Rectangle-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-36)" xlink:href="#path-35"></use>
+                <use fill="#007BBD" fill-rule="evenodd" xlink:href="#path-35"></use>
+            </g>
+            <text id="Family-pass-doc-A-to" font-family="Nunito-Bold, Nunito" font-size="18" font-weight="bold" fill="#FFFFFF">
+                <tspan x="1494" y="2018">Family pass doc A to staff </tspan>
+                <tspan x="1494" y="2042">(Adoption Councillor) &amp; </tspan>
+                <tspan x="1494" y="2066">get Interviewed</tspan>
+            </text>
+            <g id="Rectangle-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-38)" xlink:href="#path-37"></use>
+                <use fill="#007BBD" fill-rule="evenodd" xlink:href="#path-37"></use>
+            </g>
+            <text id="Specific-Family-inte" font-family="Nunito-Bold, Nunito" font-size="18" font-weight="bold" fill="#FFFFFF">
+                <tspan x="2106" y="2019">Specific Family </tspan>
+                <tspan x="2106" y="2043">interaction with </tspan>
+                <tspan x="2106" y="2067">interested dogs</tspan>
+            </text>
+            <g id="Rectangle-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-40)" xlink:href="#path-39"></use>
+                <use fill="#007BBD" fill-rule="evenodd" xlink:href="#path-39"></use>
+            </g>
+            <text id="Family-sign-Terms-&amp;" font-family="Nunito-Bold, Nunito" font-size="18" font-weight="bold" fill="#FFFFFF">
+                <tspan x="2707" y="2021">Family sign Terms &amp; </tspan>
+                <tspan x="2707" y="2045">Conditions</tspan>
+            </text>
+            <g id="Rectangle-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-42)" xlink:href="#path-41"></use>
+                <use fill="#61C8D0" fill-rule="evenodd" xlink:href="#path-41"></use>
+            </g>
+            <text id="Paper-Document-A" font-family="Nunito-Bold, Nunito" font-size="18" font-weight="bold" fill="#000000">
+                <tspan x="1520" y="1230">Paper Document A</tspan>
+            </text>
+            <g id="Rectangle-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-44)" xlink:href="#path-43"></use>
+                <use fill="#61C8D0" fill-rule="evenodd" xlink:href="#path-43"></use>
+            </g>
+            <text id="Paper-Document-A-(As" font-family="Nunito-Bold, Nunito" font-size="18" font-weight="bold" fill="#000000">
+                <tspan x="1819" y="1232">Paper Document A </tspan>
+                <tspan x="1819" y="1256">(Assumption)</tspan>
+            </text>
+            <text id="RECEPTIONIST-Greet-P" font-family="Nunito-Bold, Nunito" font-size="18" font-weight="bold" fill="#000000">
+                <tspan x="305" y="1020">RECEPTIONIST</tspan>
+                <tspan x="305" y="1057"> Greet Public</tspan>
+            </text>
+            <text id="SHELTER-STAFF-Pick-u" font-family="Nunito-Bold, Nunito" font-size="18" font-weight="bold" fill="#000000">
+                <tspan x="592" y="1720">SHELTER STAFF</tspan>
+                <tspan x="592" y="1749"> Pick up Adoption </tspan>
+                <tspan x="592" y="1773">Registration Form </tspan>
+            </text>
+            <g id="Rectangle-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-46)" xlink:href="#path-45"></use>
+                <use fill="#32A2C6" fill-rule="evenodd" xlink:href="#path-45"></use>
+            </g>
+            <text id="Finding-case-file-of" font-family="Nunito-Bold, Nunito" font-size="18" font-weight="bold" fill="#000000">
+                <tspan x="2407" y="1732">Finding case file of </tspan>
+                <tspan x="2407" y="1756">animal. Painpoint?</tspan>
+            </text>
+            <g id="Rectangle-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-48)" xlink:href="#path-47"></use>
+                <use fill="#32A2C6" fill-rule="evenodd" xlink:href="#path-47"></use>
+            </g>
+            <text id="CLINIC-ASSISTANT-(Cl" font-family="Nunito-Bold, Nunito" font-size="18" font-weight="bold" fill="#000000">
+                <tspan x="2686" y="1717">CLINIC ASSISTANT (Clinic) </tspan>
+                <tspan x="2686" y="1746">Handover to Shelter staff </tspan>
+                <tspan x="2686" y="1770">(Quarantine)</tspan>
+            </text>
+            <g id="Rectangle-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-50)" xlink:href="#path-49"></use>
+                <use fill="#61C8D0" fill-rule="evenodd" xlink:href="#path-49"></use>
+            </g>
+            <text id="SHELTER-STAFF-Verify" font-family="Nunito-Bold, Nunito" font-size="18" font-weight="bold" fill="#000000">
+                <tspan x="595" y="1410">SHELTER STAFF</tspan>
+                <tspan x="595" y="1447">Verify Registration </tspan>
+                <tspan x="595" y="1471">Form</tspan>
+            </text>
+            <g id="Rectangle-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-52)" xlink:href="#path-51"></use>
+                <use fill="#61C8D0" fill-rule="evenodd" xlink:href="#path-51"></use>
+            </g>
+            <text id="STAFF-check-eligibil" font-family="Nunito-Bold, Nunito" font-size="18" font-weight="bold" fill="#000000">
+                <tspan x="1494" y="1409">STAFF</tspan>
+                <tspan x="1494" y="1446">check eligibility of family </tspan>
+                <tspan x="1494" y="1470">(30 Mins - 1 hr )</tspan>
+            </text>
+            <g id="Rectangle-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-54)" xlink:href="#path-53"></use>
+                <use fill="#61C8D0" fill-rule="evenodd" xlink:href="#path-53"></use>
+            </g>
+            <text id="SHELTER-STAFF-Give-a" font-family="Nunito-Bold, Nunito" font-size="18" font-weight="bold" fill="#000000">
+                <tspan x="600" y="1015">SHELTER STAFF</tspan>
+                <tspan x="600" y="1052">Give adoption </tspan>
+                <tspan x="600" y="1076">Registaration form</tspan>
+            </text>
+            <g id="Rectangle-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-56)" xlink:href="#path-55"></use>
+                <use fill="#61C8D0" fill-rule="evenodd" xlink:href="#path-55"></use>
+            </g>
+            <text id="STAFF-Staff-Tick-app" font-family="Nunito-Bold, Nunito" font-size="18" font-weight="bold" fill="#000000">
+                <tspan x="1795" y="1409">STAFF</tspan>
+                <tspan x="1795" y="1446">Staff Tick approved box ? </tspan>
+                <tspan x="1795" y="1470">(Assumptions)</tspan>
+            </text>
+            <g id="Rectangle-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-58)" xlink:href="#path-57"></use>
+                <use fill="#61C8D0" fill-rule="evenodd" xlink:href="#path-57"></use>
+            </g>
+            <text id="STAFF-(Adoption-coun" font-family="Nunito-Bold, Nunito" font-size="18" font-weight="bold" fill="#000000">
+                <tspan x="1497" y="1015">STAFF (Adoption </tspan>
+                <tspan x="1497" y="1039">councillor)</tspan>
+                <tspan x="1497" y="1076">F2F interview</tspan>
+            </text>
+            <g id="Rectangle-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-60)" xlink:href="#path-59"></use>
+                <use fill="#61C8D0" fill-rule="evenodd" xlink:href="#path-59"></use>
+            </g>
+            <text id="STAFF-(Adoption-coun" font-family="Nunito-Bold, Nunito" font-size="18" font-weight="bold" fill="#000000">
+                <tspan x="1799" y="1014">STAFF (Adoption </tspan>
+                <tspan x="1799" y="1038">councillor)</tspan>
+                <tspan x="1799" y="1075">Approves Family</tspan>
+            </text>
+            <g id="Group-39" transform="translate(0.000000, 365.000000)">
+                <g id="Rectangle">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-63)" xlink:href="#path-62"></use>
+                    <use fill="url(#linearGradient-61)" fill-rule="evenodd" xlink:href="#path-62"></use>
+                </g>
+                <text id="PHASES" font-family="Raleway-Black, Raleway" font-size="36" font-weight="700" fill="#3D3F4E">
+                    <tspan x="59" y="42">PHASES</tspan>
+                </text>
+                <text id="PRE-ADOPTION" font-family="Raleway-Black, Raleway" font-size="36" font-weight="700" fill="#3D3F4E">
+                    <tspan x="543" y="41">PRE ADOPTION</tspan>
+                </text>
+                <text id="MID-ADOPTION" font-family="Raleway-Black, Raleway" font-size="36" font-weight="700" fill="#3D3F4E">
+                    <tspan x="1618" y="41">MID ADOPTION</tspan>
+                </text>
+                <text id="POST-ADOPTION-(END)" font-family="Raleway-Black, Raleway" font-size="36" font-weight="700" fill="#040404">
+                    <tspan x="3135" y="41">POST ADOPTION (END)</tspan>
+                </text>
+            </g>
+            <path d="M688.5,582.5 L688.5,991.5" id="Line" stroke="url(#linearGradient-64)" stroke-width="15" stroke-linecap="square"></path>
+            <path d="M996.5,758.5 L996.5,1041.5" id="Line" stroke="url(#linearGradient-64)" stroke-width="15" stroke-linecap="square"></path>
+            <path d="M2501.5,580.5 L2501.5,1210.5" id="Line" stroke="url(#linearGradient-64)" stroke-width="15" stroke-linecap="square"></path>
+            <path d="M2797.5,585.5 L2797.5,1414.5" id="Line" stroke="url(#linearGradient-64)" stroke-width="15" stroke-linecap="square"></path>
+            <path d="M3697.5,590.5 L3697.5,1419.5" id="Line" stroke="url(#linearGradient-65)" stroke-width="15" stroke-linecap="square"></path>
+            <path d="M3399.5,747.5 L3399.5,1429.5" id="Line" stroke="url(#linearGradient-64)" stroke-width="15" stroke-linecap="square"></path>
+            <path d="M3100.5,766.5 L3100.5,2042.5" id="Line" stroke="url(#linearGradient-66)" stroke-width="15" stroke-linecap="square"></path>
+            <path d="M381.5,782.5 L381.5,993" id="Line" stroke="url(#linearGradient-67)" stroke-width="15" stroke-linecap="square"></path>
+            <path d="M442.5,1091 L442.5,1997.5" id="Line" stroke="url(#linearGradient-68)" stroke-width="15" stroke-linecap="square"></path>
+            <g id="Rectangle-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-70)" xlink:href="#path-69"></use>
+                <use fill="#98DCE1" fill-rule="evenodd" xlink:href="#path-69"></use>
+            </g>
+            <text id="Adoption-Registratio" font-family="Nunito-Bold, Nunito" font-size="18" font-weight="bold" fill="#000000">
+                <tspan x="591" y="526">Adoption </tspan>
+                <tspan x="591" y="550">Registration </tspan>
+                <tspan x="591" y="574">Form</tspan>
+            </text>
+            <g id="Group" transform="translate(697.000000, 458.000000)" fill="#000000" fill-rule="nonzero">
+                <path d="M97,95.024 L97.904,95.58 C97.62,95.384 97.348,95.196 97.076,95 L97,95.024 Z" id="Shape"></path>
+                <path d="M156,51.4269077 L155.886591,51.4004336 L155.939637,51.1692261 L88.2617138,37.8580263 L85.5344027,27.0195117 L85.5344027,8.94826077 L80.9779091,8.94826077 L78.7225271,0 L40.5749261,8.94826077 L25.1549177,8.94826077 L25.0671169,9.54481148 L22.171521,13.272371 L20.6606163,13.6253596 L0,18.1171394 L4.28394541,36.2307489 L3.52117631,37.2085273 L3.32179541,37.2085273 L3.31813705,37.4697389 L3.15533981,37.683297 L3.31630787,37.7044763 L2.27916139,120.587962 L2.27550303,120.912712 L24.3025186,120.912712 L25.7402561,127 L51.6908682,120.912712 L85.5362319,120.912712 L85.5362319,112.973998 L105.995638,108.168059 L103.914028,99.9116556 L144.088364,107.816835 L156,51.4269077 Z M84.8704095,113.124019 L84.8704095,120.273802 L54.405375,120.273802 L24.1488673,120.273802 L2.94864218,120.273802 L3.97664275,37.8403769 L4.30223723,37.8350821 L22.0745744,40.2601137 L24.4086112,18.5230763 L25.2921064,12.5381547 L25.729281,9.58540517 L37.8640777,9.58540517 L81.1388772,9.58540517 L84.8704095,9.58540517 L84.8704095,24.3932765 L84.8704095,37.187348 L70.7783875,34.4181525 L70.4546222,34.3546146 L70.4052343,34.587587 L69.5674687,34.4216824 L68.1315604,41.2184777 L31.3595047,41.2184777 L31.3595047,44.1094543 L67.5169551,44.1094543 L65.96215,51.4939756 L8.57703672,51.4939756 L8.57703672,54.3831872 L65.3493739,54.3831872 L63.787252,61.7712384 L31.3595047,61.7712384 L31.3595047,64.66045 L63.1781342,64.66045 L61.6160124,72.0520311 L15.385254,72.0520311 L15.385254,74.9412427 L61.010553,74.9412427 L59.4484311,82.325764 L31.3595047,82.325764 L31.3595047,85.2149756 L58.835655,85.2149756 L57.6540031,90.8133747 L66.7468693,92.6030268 L20.7100042,92.6030268 L20.7100042,95.4922384 L76.3244688,95.4922384 L76.3244688,94.4862209 L84.8704095,96.1682116 L84.8704095,113.124019 Z M85.5344027,94.8056756 L85.2014915,94.7368428 L84.8685803,94.6750698 L76.3226397,92.9930792 L74.3306599,92.5994969 L59.4356268,89.6696916 L60.3831434,85.2132107 L60.9886028,82.3239991 L62.5507246,74.9394777 L63.1616716,72.0502661 L64.7237934,64.658685 L65.3347404,61.7694734 L66.8968622,54.3814222 L67.5078092,51.4922106 L69.0662727,44.1076893 L69.6790488,41.2167128 L70.9704517,35.1082452 L84.8685803,37.8386119 L85.2014915,37.9074447 L85.5344027,37.9709827 L88.4391445,38.5445891 L155.158576,51.6687049 L143.623751,106.237211 L103.515267,98.3390914 L85.5344027,94.8056756 Z" id="Shape"></path>
+                <rect id="Rectangle-path" x="49" y="32" width="27" height="3"></rect>
+                <rect id="Rectangle-path" x="32" y="100" width="46" height="3"></rect>
+                <path d="M99,46.6958268 L75.9710219,42 L70,71.2986379 L93.0363498,76 L99,46.6958268 Z M90.2646162,72.3263689 C89.3044611,70.8521192 87.1187722,68.3519835 83.7001779,67.3205622 C81.13485,66.5456124 77.8894891,66.6046562 73.9493518,68.5494112 C73.8516777,68.6029196 73.7282028,68.7283877 73.5936706,68.8907581 L78.3410015,45.5906007 L95.4137011,49.0686493 L90.6608414,72.405709 L90.2646162,72.3263689 Z" id="Shape"></path>
+                <path d="M86.8306945,47.0625193 C86.2599526,46.9877287 85.6983571,46.9814962 85.1440789,47.036031 C81.7306031,47.3663559 78.7579888,50.0105134 78.1195627,53.5443669 C77.3878423,57.6531727 80.08972,61.4098397 84.1708907,61.9411642 C84.2769902,61.9583037 84.3830896,61.9676525 84.4837012,61.972327 C88.4477966,62.3135588 92.1631071,59.4621691 92.8801932,55.4577585 C93.6137429,51.3520689 90.9027187,47.5907275 86.8306945,47.0625193 Z" id="Shape"></path>
+                <rect id="Rectangle-path" transform="translate(125.500000, 55.500000) rotate(11.507697) translate(-125.500000, -55.500000) " x="107" y="54" width="37" height="3"></rect>
+                <rect id="Rectangle-path" transform="translate(121.500000, 67.500000) rotate(-168.492303) translate(-121.500000, -67.500000) " x="103" y="66" width="37" height="3"></rect>
+                <rect id="Rectangle-path" transform="translate(120.500000, 76.500000) rotate(-168.486689) translate(-120.500000, -76.500000) " x="102" y="75" width="37" height="3"></rect>
+                <rect id="Rectangle-path" transform="translate(105.000000, 82.500000) rotate(-168.486689) translate(-105.000000, -82.500000) " x="70" y="81" width="70" height="3"></rect>
+            </g>
+            <g id="Rectangle-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-72)" xlink:href="#path-71"></use>
+                <use fill="#007BBD" fill-rule="evenodd" xlink:href="#path-71"></use>
+            </g>
+            <text id="Family-bring-dog-hom" font-family="Nunito-Bold, Nunito" font-size="18" font-weight="bold" fill="#FFFFFF">
+                <tspan x="3005" y="2021">Family bring dog home</tspan>
+            </text>
+            <g id="Rectangle-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-74)" xlink:href="#path-73"></use>
+                <use fill="#007BBD" fill-rule="evenodd" xlink:href="#path-73"></use>
+            </g>
+            <text id="Family-Receive-call" font-family="Nunito-Bold, Nunito" font-size="18" font-weight="bold" fill="#FFFFFF">
+                <tspan x="3307" y="2021">Family Receive call</tspan>
+            </text>
+            <g id="Rectangle-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-76)" xlink:href="#path-75"></use>
+                <use fill="#32A2C6" fill-rule="evenodd" xlink:href="#path-75"></use>
+            </g>
+            <text id="CAR" font-family="Nunito-Bold, Nunito" font-size="20" font-weight="bold" fill="#000000">
+                <tspan x="3336" y="1742">CAR</tspan>
+                <tspan x="3378.04" y="1742" font-family="Nunito-Regular, Nunito" font-weight="normal"> </tspan>
+            </text>
+            <path d="M3418.78217,1705.50426 C3416.04714,1710.86036 3413.31211,1717.01418 3410.57708,1722.37028 C3409.20957,1718.49566 3404.3093,1720.66089 3402.25803,1722.71216 C3402.94179,1724.19364 3404.76514,1725.33323 3407.27225,1726.24491 C3404.3093,1733.19645 3401.68823,1740.26194 3402.03011,1746.52972 L3403.28367,1749.37871 C3403.05575,1758.26757 3403.28367,1767.15642 3403.28367,1775.93131 C3403.28367,1777.41278 3404.42326,1778.55238 3405.79078,1778.55238 L3410.57708,1778.55238 C3412.05856,1778.55238 3413.19815,1777.41278 3413.19815,1775.93131 L3413.19815,1772.17064 L3416.7309,1772.17064 C3418.09842,1772.17064 3419.23801,1771.03104 3419.23801,1769.66353 L3419.23801,1766.9285 L3423.11264,1766.9285 C3424.25224,1766.9285 3425.16391,1766.13078 3425.50579,1765.10514 L3469.49421,1765.10514 C3469.83609,1766.13078 3470.74776,1766.9285 3472.00132,1766.9285 L3475.76199,1766.9285 L3475.76199,1769.66353 C3475.76199,1771.03104 3476.90158,1772.17064 3478.2691,1772.17064 L3481.80185,1772.17064 L3481.80185,1775.93131 C3481.80185,1777.41278 3482.94144,1778.55238 3484.42292,1778.55238 L3489.20922,1778.55238 C3490.57674,1778.55238 3491.71633,1777.41278 3491.71633,1775.93131 C3491.71633,1767.15642 3491.94425,1758.26757 3491.71633,1749.37871 L3492.96989,1746.52972 C3493.31177,1740.26194 3490.6907,1733.19645 3487.72775,1726.24491 C3490.23486,1725.33323 3492.05821,1724.19364 3492.74197,1722.71216 C3490.6907,1720.66089 3485.79043,1718.49566 3484.42292,1722.37028 C3481.68789,1717.01418 3478.95286,1710.86036 3476.21783,1705.50426 C3464.25206,1700.83191 3430.74794,1700.83191 3418.78217,1705.50426 Z M3410.00728,1754.05106 C3406.13266,1754.05106 3403.85346,1755.64649 3403.7395,1757.24193 C3403.85346,1756.44421 3403.85346,1755.76045 3403.85346,1754.96274 C3405.22098,1753.3673 3407.50017,1752.45562 3409.43748,1752.11375 L3485.56252,1752.11375 C3487.61379,1752.45562 3489.77902,1753.3673 3491.14654,1754.96274 C3491.2605,1755.76045 3491.2605,1756.44421 3491.2605,1757.24193 C3491.14654,1755.64649 3488.86734,1754.05106 3484.99272,1754.05106 L3410.00728,1754.05106 Z M3434.62256,1740.60382 C3433.71089,1740.60382 3433.02713,1739.92007 3433.02713,1739.00839 L3433.02713,1735.5896 C3433.02713,1734.79188 3433.71089,1734.10812 3434.62256,1734.10812 L3460.37744,1734.10812 C3461.28911,1734.10812 3461.97287,1734.79188 3461.97287,1735.5896 L3461.97287,1739.00839 C3461.97287,1739.92007 3461.28911,1740.60382 3460.37744,1740.60382 L3434.62256,1740.60382 Z M3423.34056,1721.34465 C3421.17533,1721.23069 3419.23801,1720.66089 3417.98446,1718.83753 C3419.01009,1710.7464 3420.49157,1708.92305 3424.59412,1706.75781 C3439.52283,1703.90882 3455.47717,1703.90882 3470.40588,1706.75781 C3474.50843,1708.92305 3475.98991,1710.7464 3477.01554,1718.83753 C3475.76199,1720.66089 3473.82467,1721.23069 3471.65944,1721.34465 C3455.59113,1722.14236 3439.40887,1722.14236 3423.34056,1721.34465 Z M3487.38587,1735.81752 C3486.47419,1735.81752 3484.65084,1736.04544 3484.30896,1735.81752 C3483.96708,1735.47564 3480.89017,1732.05685 3481.11809,1732.05685 C3481.34601,1731.82893 3472.45716,1731.48705 3472.45716,1730.00558 L3472.3432,1726.70075 C3476.21783,1725.90303 3479.97849,1725.44719 3483.51124,1725.90303 C3486.36023,1727.61243 3487.72775,1732.62665 3487.38587,1735.81752 Z M3407.61413,1735.81752 C3408.52581,1735.81752 3410.34916,1736.04544 3410.69104,1735.81752 C3411.03292,1735.47564 3414.10983,1732.05685 3413.88191,1732.05685 C3413.65399,1731.82893 3422.54284,1731.48705 3422.54284,1730.00558 L3422.6568,1726.70075 C3418.78217,1725.90303 3415.02151,1725.44719 3411.48876,1725.90303 C3408.63977,1727.61243 3407.27225,1732.62665 3407.61413,1735.81752 Z" id="Shape" fill="#000000"></path>
+            <g id="Rectangle-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-78)" xlink:href="#path-77"></use>
+                <use fill="#61C8D0" fill-rule="evenodd" xlink:href="#path-77"></use>
+            </g>
+            <text id="Staff-call-family-be" font-family="Nunito-Bold, Nunito" font-size="18" font-weight="bold" fill="#000000">
+                <tspan x="3295" y="1413">Staff </tspan>
+                <tspan x="3295" y="1450">call family before visit </tspan>
+                <tspan x="3295" y="1474">(Scheduled)</tspan>
+            </text>
+            <g id="Rectangle-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-80)" xlink:href="#path-79"></use>
+                <use fill="#61C8D0" fill-rule="evenodd" xlink:href="#path-79"></use>
+            </g>
+            <text id="call-phone" font-family="Nunito-Bold, Nunito" font-size="18" font-weight="bold" fill="#000000">
+                <tspan x="3298" y="1230">call phone</tspan>
+            </text>
+            <path d="M3487.01422,1203 L3460.98578,1203 C3457.68545,1203 3455,1205.68079 3455,1208.97626 L3455,1273.02374 C3455,1276.31921 3457.68545,1279 3460.98578,1279 L3487.01422,1279 C3490.31455,1279 3493,1276.31921 3493,1273.02374 L3493,1208.97626 C3493,1205.68079 3490.31455,1203 3487.01422,1203 Z M3492.40375,1273.02374 C3492.40375,1275.99094 3489.98615,1278.4047 3487.01422,1278.4047 L3460.98578,1278.4047 C3458.01385,1278.4047 3455.59625,1275.99094 3455.59625,1273.02374 L3455.59625,1208.97626 C3455.59625,1206.00906 3458.01385,1203.5953 3460.98578,1203.5953 L3487.01422,1203.5953 C3489.98615,1203.5953 3492.40375,1206.00906 3492.40375,1208.97626 L3492.40375,1273.02374 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+            <rect id="Rectangle-path" fill="#000000" fill-rule="nonzero" x="3457" y="1212" width="34" height="58"></rect>
+            <path d="M3474,1271 C3472.34554,1271 3471,1272.34593 3471,1274 C3471,1275.65407 3472.34554,1277 3474,1277 C3475.65446,1277 3477,1275.65407 3477,1274 C3477,1272.34593 3475.65446,1271 3474,1271 Z M3474,1276.40984 C3472.67136,1276.40984 3471.59016,1275.32864 3471.59016,1274 C3471.59016,1272.67136 3472.67136,1271.59016 3474,1271.59016 C3475.32864,1271.59016 3476.40984,1272.67136 3476.40984,1274 C3476.40984,1275.32864 3475.32864,1276.40984 3474,1276.40984 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+            <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="3468" cy="1208" r="1"></circle>
+            <circle id="Oval" fill="#000000" fill-rule="nonzero" cx="3473.5" cy="1205.5" r="1"></circle>
+            <path d="M3470.3327,1208.78125 L3476.6673,1208.78125 C3476.85029,1208.78125 3477,1208.60547 3477,1208.39062 C3477,1208.17578 3476.85029,1208 3476.6673,1208 L3470.3327,1208 C3470.14971,1208 3470,1208.17578 3470,1208.39062 C3470,1208.60547 3470.14971,1208.78125 3470.3327,1208.78125 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+            <path d="M3430.67468,1240.3233 C3430.52592,1240.05412 3430.33895,1239.80997 3430.12012,1239.59913 C3429.92713,1239.36346 3429.69947,1239.16123 3429.44566,1239 C3426.81445,1239.81176 3424.76158,1241.96624 3424,1244.71522 C3424.1504,1244.97241 3424.33738,1245.20429 3424.55456,1245.40292 C3424.74379,1245.63071 3424.96636,1245.82588 3425.21403,1245.98121 C3427.83574,1245.18148 3429.89095,1243.05203 3430.67468,1240.3233 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+            <path d="M3416.84728,1231.00862 C3416.54982,1230.98347 3416.25043,1231.01346 3415.96299,1231.09718 C3414.66864,1234.15779 3414.67953,1237.6472 3415.99296,1240.69896 C3416.27077,1240.78851 3416.56272,1240.82037 3416.85228,1240.79273 C3417.14348,1240.81959 3417.43693,1240.78775 3417.71659,1240.69896 C3419.02047,1237.64277 3419.02047,1234.15337 3417.71659,1231.09718 C3417.43406,1231.01465 3417.13979,1230.98467 3416.84728,1231.00862 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+            <path d="M3437.38563,1252.92894 C3437.41038,1252.61873 3437.38162,1252.30641 3437.3007,1252.00679 C3434.36642,1250.65539 3431.02024,1250.66485 3428.09303,1252.03284 C3428.01333,1252.32557 3427.98456,1252.63083 3428.0081,1252.93414 C3427.98429,1253.23574 3428.01307,1253.53934 3428.09303,1253.83024 C3431.02431,1255.18731 3434.36942,1255.18731 3437.3007,1253.83024 C3437.37866,1253.53716 3437.40739,1253.23223 3437.38563,1252.92894 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+            <path d="M3394.68283,1260.95943 C3395.19358,1261.67935 3395.74935,1262.36333 3396.34651,1263.0069 L3397.9902,1264.74179 L3401.28257,1268.19071 L3404.59493,1271.62401 L3406.2736,1273.33806 C3406.89262,1273.95744 3407.5502,1274.53351 3408.24203,1275.06252 C3411.02252,1277.17621 3414.30584,1278.45385 3417.73447,1278.75631 C3424.50408,1279.4388 3431.38859,1275.77627 3434.80087,1269.99333 C3435.00956,1269.60481 3434.88856,1269.11385 3434.52609,1268.87842 C3434.89897,1268.69242 3435.07112,1268.23796 3434.92078,1267.83644 L3434.87581,1267.75309 C3433.53534,1265.54985 3431.7939,1263.64184 3429.7499,1262.13686 C3427.67941,1260.64418 3425.36492,1259.55835 3422.92034,1258.93279 C3422.402,1258.80105 3421.8548,1258.94761 3421.4615,1259.32353 L3421.42153,1259.36521 L3418.50885,1262.2098 C3417.48149,1263.07771 3416.03016,1263.14122 3414.9367,1262.36609 C3414.75988,1262.22968 3414.5929,1262.07993 3414.43709,1261.91804 L3413.72266,1261.1574 L3410.84496,1258.13047 L3407.93727,1255.13481 L3407.20785,1254.38459 C3407.05162,1254.22307 3406.90795,1254.04886 3406.7782,1253.8636 C3406.5419,1253.49962 3406.38188,1253.08776 3406.30857,1252.65491 C3406.15844,1251.76465 3406.39037,1250.85052 3406.94306,1250.15418 L3409.6559,1247.12204 L3409.70586,1247.06994 C3410.05919,1246.66629 3410.19435,1246.10449 3410.06558,1245.57471 C3409.46773,1243.00961 3408.41549,1240.5836 3406.96305,1238.42158 C3405.50723,1236.27564 3403.65806,1234.45179 3401.52238,1233.05542 C3401.15113,1232.90268 3400.72985,1233.07567 3400.55815,1233.45137 C3400.32698,1233.07252 3399.85731,1232.93935 3399.47401,1233.14399 L3399.38409,1233.20651 C3396.59739,1235.09172 3394.35286,1237.7294 3392.88926,1240.83895 C3391.3966,1244.0211 3390.76934,1247.56916 3391.0757,1251.09716 C3391.3896,1254.66695 3392.63732,1258.07836 3394.68283,1260.95943 Z M3400.52318,1234.62359 C3400.52318,1234.62359 3400.52318,1234.57149 3400.55315,1234.55065 L3400.58313,1234.55065 C3403.78152,1237.31235 3405.98384,1241.12651 3406.82816,1245.36632 C3406.04378,1246.13217 3405.28439,1246.85634 3404.39509,1247.7889 C3403.11981,1249.25108 3402.53399,1251.22886 3402.79637,1253.18632 C3402.93143,1254.16709 3403.27263,1255.10464 3403.79557,1255.93191 C3404.05187,1256.33223 3404.34286,1256.70718 3404.66488,1257.05203 L3405.37931,1257.81267 L3408.25702,1260.8396 L3411.15971,1263.84048 L3411.88912,1264.58549 C3412.21994,1264.92271 3412.57947,1265.22788 3412.96327,1265.49722 C3415.39908,1267.14261 3418.58876,1266.88888 3420.75706,1264.87724 C3421.65135,1263.94468 3422.34579,1263.1632 3423.08021,1262.34004 C3427.15457,1263.23654 3430.81451,1265.55369 3433.45694,1268.90967 C3433.45694,1268.90967 3433.45694,1268.90967 3433.42197,1268.90967 L3433.35203,1268.99824 C3429.67782,1273.82736 3423.82992,1276.27219 3417.97428,1275.42721 C3415.18021,1275.01116 3412.53858,1273.84212 3410.31038,1272.03559 C3409.76031,1271.58774 3409.23801,1271.10399 3408.74663,1270.58725 L3407.11293,1268.85758 L3403.82555,1265.40344 L3400.52318,1261.95451 L3398.87449,1260.2561 C3398.38216,1259.74174 3397.92161,1259.19534 3397.49559,1258.6202 C3395.77515,1256.28726 3394.66636,1253.52769 3394.27815,1250.61265 C3393.50199,1244.50634 3395.8766,1238.42668 3400.52318,1234.62359 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+            <g id="Rectangle-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-82)" xlink:href="#path-81"></use>
+                <use fill="#61C8D0" fill-rule="evenodd" xlink:href="#path-81"></use>
+            </g>
+            <text id="STAFF-Go-for-home-vi" font-family="Nunito-Bold, Nunito" font-size="18" font-weight="bold" fill="#000000">
+                <tspan x="3302" y="1021">STAFF </tspan>
+                <tspan x="3302" y="1058">Go for home visit</tspan>
+            </text>
+            <g id="Rectangle-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-84)" xlink:href="#path-83"></use>
+                <use fill="#007BBD" fill-rule="evenodd" xlink:href="#path-83"></use>
+            </g>
+            <text id="AVA-PALS-(Updated-in" font-family="Nunito-Bold, Nunito" font-size="18" font-weight="bold" fill="#FFFFFF">
+                <tspan x="3608" y="2227">AVA  </tspan>
+                <tspan x="3608" y="2251.1">PALS (Updated in the </tspan>
+                <tspan x="3608" y="2275.1">system)</tspan>
+            </text>
+            <g id="Rectangle-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-86)" xlink:href="#path-85"></use>
+                <use fill="#007BBD" fill-rule="evenodd" xlink:href="#path-85"></use>
+            </g>
+            <text id="Family-Notified-by-A" font-family="Nunito-Bold, Nunito" font-size="18" font-weight="bold" fill="#FFFFFF">
+                <tspan x="3607" y="2021">Family Notified by AVA </tspan>
+                <tspan x="3607" y="2045">&amp; SPCA</tspan>
+            </text>
+            <g id="Rectangle-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-88)" xlink:href="#path-87"></use>
+                <use fill="#32A2C6" fill-rule="evenodd" xlink:href="#path-87"></use>
+            </g>
+            <text id="SPCA-update-their-re" font-family="Nunito-Bold, Nunito" font-size="18" font-weight="bold" fill="#000000">
+                <tspan x="3596" y="1721">SPCA </tspan>
+                <tspan x="3596" y="1750" font-family="Nunito-Regular, Nunito" font-weight="normal">update their record of </tspan>
+                <tspan x="3596" y="1774" font-family="Nunito-Regular, Nunito" font-weight="normal">ownership transfer</tspan>
+            </text>
+            <g id="Rectangle-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-90)" xlink:href="#path-89"></use>
+                <use fill="#61C8D0" fill-rule="evenodd" xlink:href="#path-89"></use>
+            </g>
+            <text id="SPCA-staff-update-in" font-family="Nunito-Bold, Nunito" font-size="18" font-weight="bold" fill="#000000">
+                <tspan x="3595" y="1419">SPCA staff  </tspan>
+                <tspan x="3595" y="1456">update internal case file</tspan>
+            </text>
+            <g id="Rectangle-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-92)" xlink:href="#path-91"></use>
+                <use fill="#61C8D0" fill-rule="evenodd" xlink:href="#path-91"></use>
+            </g>
+            <text id="Computer-transfer-in" font-family="Nunito-Bold, Nunito" font-size="18" font-weight="bold" fill="#000000">
+                <tspan x="3619" y="1230">Computer transfer </tspan>
+                <tspan x="3619" y="1254">input to AVA</tspan>
+            </text>
+            <g id="Rectangle-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-94)" xlink:href="#path-93"></use>
+                <use fill="#61C8D0" fill-rule="evenodd" xlink:href="#path-93"></use>
+            </g>
+            <text id="SPCA-STAFF-Notify-fa" font-family="Nunito-Bold, Nunito" font-size="18" font-weight="bold" fill="#000000">
+                <tspan x="3601" y="1015">SPCA STAFF </tspan>
+                <tspan x="3601" y="1052">Notify family of Liscence </tspan>
+                <tspan x="3601" y="1076">update</tspan>
+            </text>
+            <g id="Rectangle-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-96)" xlink:href="#path-95"></use>
+                <use fill="#98DCE1" fill-rule="evenodd" xlink:href="#path-95"></use>
+            </g>
+            <text id="transfer-of-ownershi" font-family="Nunito-Bold, Nunito" font-size="18" font-weight="bold" fill="#000000">
+                <tspan x="3626" y="743">transfer of </tspan>
+                <tspan x="3626" y="767">ownership</tspan>
+            </text>
+            <g id="Rectangle-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-98)" xlink:href="#path-97"></use>
+                <use fill="#98DCE1" fill-rule="evenodd" xlink:href="#path-97"></use>
+            </g>
+            <text id="Animal-Case-file-upd" font-family="Nunito-Bold, Nunito" font-size="18" font-weight="bold" fill="#000000">
+                <tspan x="3597" y="534">Animal Case file </tspan>
+                <tspan x="3597" y="558">updated details</tspan>
+            </text>
+            <path d="M3759.48864,535 C3759.48864,535.888844 3759.48864,536.777689 3759.48864,537.666667 L3810.01136,537.666667 L3810.01136,535 L3759.48864,535 Z" id="Shape" fill="#000000"></path>
+            <path d="M3759.48864,547 C3759.48864,547.888889 3759.48864,548.777778 3759.48864,549.666667 L3802.99897,549.666667 C3804.07409,548.706773 3805.22846,547.814414 3806.46591,547 L3759.48864,547 Z" id="Shape" fill="#000000"></path>
+            <path d="M3736,463 C3736,504.037117 3736,545.074144 3736,586.111111 L3800.93787,586.111111 C3800.21051,585.147392 3799.52699,584.154096 3798.92653,583.108403 L3739.18805,583.108403 L3739.18805,466.002709 L3831.6415,466.002709 L3831.6415,540.762705 C3832.72432,540.949173 3833.78897,541.181883 3834.82955,541.472245 L3834.82955,463 L3736,463 Z" id="Shape" fill="#000000"></path>
+            <path d="M3759.48864,558.111111 C3759.48864,559.000089 3759.48864,559.888933 3759.48864,560.777778 L3795.61591,560.777778 C3795.93017,559.868514 3796.28933,558.976333 3796.71591,558.111111 L3759.48864,558.111111 Z" id="Shape" fill="#000000"></path>
+            <path d="M3826.40901,544.777778 C3819.35622,544.778021 3812.5924,547.423979 3807.60562,552.13354 C3802.61884,556.843101 3799.8176,563.230457 3799.81818,569.890385 C3799.81872,583.757833 3811.72352,594.999494 3826.40901,595 C3841.09456,594.999576 3852.99946,583.757891 3853,569.890385 C3853.00058,563.230431 3850.19932,556.843052 3845.21251,552.133487 C3840.22569,547.423922 3833.46184,544.777981 3826.40901,544.777778 Z M3832.15171,559.044771 L3837.89441,564.467578 L3823.53782,578.024595 L3814.92362,580.735999 L3817.79512,572.601788 L3832.15171,559.044771 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+            <path d="M3784.75,488.333333 L3766.57955,496.930967 L3766.57955,518.402457 L3784.75,527 L3802.92045,518.402457 L3802.92045,496.930967 L3784.75,488.333333 Z M3784.75,499.563784 L3782.21056,500.766239 L3782.21056,502.809656 L3784.75,504.012111 L3787.28944,502.809656 L3787.28944,500.766239 L3784.75,499.563784 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+            <path d="M3795.91166,511.292904 C3795.87622,511.024107 3795.63559,510.823469 3795.37817,510.857069 C3795.11562,510.882269 3794.91906,511.116506 3794.93305,511.387943 C3795.07318,514.081911 3793.11339,514.818702 3792.17954,515.016699 C3791.69408,511.214185 3787.34639,505.992087 3786.59419,505.606172 C3786.37081,505.431454 3786.13997,504.258588 3786.09474,503.098442 C3786.16632,503.007723 3786.23394,502.908844 3786.29736,502.802045 C3787.44829,500.855188 3785.76807,497.065874 3784.46558,496.228283 C3783.17148,495.394773 3780.0505,497.086033 3779.43843,497.433309 C3779.35869,497.478429 3779.2927,497.545628 3779.24793,497.626987 L3778.17955,499.567604 L3775.41555,500.030798 C3775.18401,500.069678 3775.01147,500.271035 3775.00307,500.512232 C3774.99375,500.787509 3774.94268,503.23284 3776.07053,504.324827 C3776.47391,504.716022 3776.99015,504.8929 3777.56281,504.835061 C3779.17075,504.676183 3779.92926,505.024899 3780.13608,505.190977 C3780.12022,505.253136 3780.09854,505.332815 3780.07382,505.427134 C3779.64479,507.055994 3778.36025,511.933696 3781.2047,514.199989 L3781.2047,517.45795 C3780.58959,517.749547 3779.55105,518.368259 3779.5324,519.226729 L3779.5324,519.493606 C3779.5324,519.773203 3779.75251,519.99976 3780.02416,519.99976 L3782.56361,519.99976 C3782.52281,519.766483 3782.57877,519.498406 3782.70095,519.297528 C3782.8215,519.092571 3782.98308,518.942333 3783.14654,518.818734 C3783.47787,518.576577 3783.83042,518.425139 3784.18204,518.29818 C3784.4383,518.206741 3784.69665,518.135462 3784.9557,518.071143 C3784.82932,517.969624 3784.70947,517.858026 3784.60431,517.722187 C3784.14963,517.217233 3783.92206,516.506842 3783.96263,515.858849 C3783.99061,515.205577 3784.21142,514.614704 3784.4777,514.073991 C3784.74935,513.533277 3785.07998,513.033123 3785.45935,512.580248 C3785.1462,513.082562 3784.89111,513.620396 3784.70364,514.173589 C3784.51991,514.724383 3784.39889,515.304936 3784.45415,515.850209 C3784.50149,516.396923 3784.74538,516.867317 3785.12592,517.186034 C3785.29986,517.362671 3785.54166,517.46827 3785.7655,517.586109 C3785.99797,517.693148 3786.26682,517.748587 3786.50885,517.834266 C3786.76697,517.925465 3786.9043,518.214901 3786.8157,518.480578 C3786.75414,518.664896 3786.60002,518.789454 3786.42514,518.818014 L3786.3904,518.823534 L3786.38946,518.823774 C3786.06606,518.823534 3785.71654,518.843454 3785.38217,518.875853 C3785.04524,518.909453 3784.71017,518.957452 3784.38677,519.031612 C3784.06453,519.105051 3783.74788,519.204649 3783.48533,519.353448 C3783.22185,519.507766 3783.0479,519.695444 3783.05933,519.942161 C3783.0605,519.96256 3783.05443,519.9808 3783.05094,520 L3792.06575,520 C3792.32551,520 3792.54072,519.791922 3792.55634,519.525046 L3792.61207,518.597457 C3793.45475,518.525218 3794.15822,518.173382 3794.7064,517.548189 C3796.45028,515.561733 3795.93404,511.465702 3795.91166,511.292904 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <g id="Rectangle-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-100)" xlink:href="#path-99"></use>
+                <use fill="#61C8D0" fill-rule="evenodd" xlink:href="#path-99"></use>
+            </g>
+            <text id="Staff-Councillor-che" font-family="Nunito-Bold, Nunito" font-size="18" font-weight="bold" fill="#000000">
+                <tspan x="2696" y="1411">Staff Councillor </tspan>
+                <tspan x="2696" y="1448">check Terms &amp; </tspan>
+                <tspan x="2696" y="1472">Conditions is signed </tspan>
+            </text>
+            <g id="Rectangle-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-102)" xlink:href="#path-101"></use>
+                <use fill="#61C8D0" fill-rule="evenodd" xlink:href="#path-101"></use>
+            </g>
+            <text id="2-copies-of-Terms-&amp;" font-family="Nunito-Bold, Nunito" font-size="18" font-weight="bold" fill="#000000">
+                <tspan x="2718" y="1230">2 copies of Terms </tspan>
+                <tspan x="2718" y="1254">&amp; Conditions </tspan>
+            </text>
+            <g id="Rectangle-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-104)" xlink:href="#path-103"></use>
+                <use fill="#61C8D0" fill-rule="evenodd" xlink:href="#path-103"></use>
+            </g>
+            <text id="STAFF-(Adoption-coun" font-family="Nunito-Bold, Nunito" font-size="18" font-weight="bold" fill="#000000">
+                <tspan x="2695" y="1021">STAFF (Adoption </tspan>
+                <tspan x="2695" y="1045">councillor)</tspan>
+                <tspan x="2695" y="1080">Terms &amp; Condition with </tspan>
+                <tspan x="2695" y="1104">family</tspan>
+            </text>
+            <g id="Rectangle-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-106)" xlink:href="#path-105"></use>
+                <use fill="#98DCE1" fill-rule="evenodd" xlink:href="#path-105"></use>
+            </g>
+            <text id="Signed-paper-terms-&amp;" font-family="Nunito-Bold, Nunito" font-size="18" font-weight="bold" fill="#000000">
+                <tspan x="2688" y="528">Signed paper </tspan>
+                <tspan x="2688" y="552">terms &amp; </tspan>
+                <tspan x="2688" y="576">conditions copies</tspan>
+            </text>
+            <path d="M2980.8896,504.218316 C2979.80402,492.880023 2971.95235,492 2969.5721,492 C2968.52666,492 2967.81241,492.136585 2967.68027,492.164248 L2967.10821,492.283544 L2918.96783,532.28915 L2918.73198,532.83549 C2909.22267,554.995128 2909.54216,555.501703 2910.39356,556.85718 L2911.13457,558 L2912.42924,558 L2912.50117,557.998271 C2912.9093,557.986169 2913.66871,557.963693 2935.63798,550.857809 L2936.18329,550.681459 L2981,505.397443 L2980.8896,504.218316 Z M2933.66921,546.324566 C2930.22847,547.436266 2925.94133,548.810761 2922.0891,550.031383 C2921.53543,548.302457 2919.87276,546.829413 2918.4794,545.856028 C2919.81087,542.598732 2921.35143,538.921308 2922.8669,535.385655 L2923.66478,534.723477 C2926.23238,535.606958 2929.84374,537.010845 2931.03471,538.27469 C2932.19556,539.507413 2933.43002,543.207314 2934.1911,545.802431 L2933.66921,546.324566 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+            <ellipse id="Oval" fill="#000000" fill-rule="nonzero" cx="2858" cy="493.5" rx="6" ry="4.5"></ellipse>
+            <path d="M2907.64723,492 L2870.351,492 C2868.49932,492 2867,493.790857 2867,496 C2867,498.209143 2868.50108,500 2870.351,500 L2907.64547,500 C2909.49716,500 2911,498.207042 2911,496 C2911.00176,493.788755 2909.49892,492 2907.64723,492 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+            <ellipse id="Oval" fill="#000000" fill-rule="nonzero" cx="2858" cy="513.5" rx="6" ry="4.5"></ellipse>
+            <path d="M2907.64723,510 L2870.351,510 C2868.49932,510 2867,511.791327 2867,513.998949 C2867,516.208673 2868.50108,518 2870.351,518 L2907.64547,518 C2909.49716,518 2911,516.208673 2911,513.998949 C2911.00176,511.791327 2909.49892,510 2907.64723,510 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+            <ellipse id="Oval" fill="#000000" fill-rule="nonzero" cx="2858" cy="531.5" rx="6" ry="4.5"></ellipse>
+            <path d="M2907.64723,530 L2870.351,530 C2868.49932,530 2867,531.790857 2867,534 C2867,536.207042 2868.50108,538 2870.351,538 L2907.64547,538 C2909.49716,538 2911,536.207042 2911,534 C2911.00176,531.788755 2909.49892,530 2907.64723,530 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+            <path d="M2884.28826,569.439183 C2885.26567,572.368355 2889.85017,571.111788 2888.86113,568.155556 C2886.29793,560.467324 2877.79882,558.358388 2869.2781,559.239507 C2869.22989,559.210757 2869.18002,559.178624 2869.13348,559.151564 C2867.88679,558.426036 2866.51044,557.876393 2865.21887,557.233734 C2861.62341,555.446127 2868.87251,547.541421 2872.27182,553.925731 C2873.72629,556.663797 2877.82541,554.226766 2876.36595,551.488701 C2870.86389,541.150346 2852.79018,550.846042 2859.5057,558.762586 C2859.86474,559.185389 2860.86542,559.850033 2862.15699,560.649975 C2857.92655,561.896395 2854.14991,563.760106 2851.68811,565.882572 C2850.63091,566.792442 2850.92181,568.346663 2851.68811,569.297122 C2856.4139,575.152084 2869.17171,578.974214 2875.30543,572.97719 C2877.85367,570.487732 2877.69908,567.357306 2875.73762,564.529606 C2875.57971,564.302984 2875.37525,564.110186 2875.20237,563.897094 C2879.51094,564.248865 2883.09144,565.850439 2884.28826,569.439183 Z M2871.78644,569.648893 C2867.74051,572.549315 2861.17626,570.883475 2857.15028,567.864668 C2859.87305,566.330743 2863.8608,564.96932 2867.96491,564.284381 C2871.05338,566.371332 2873.41877,568.478577 2871.78644,569.648893 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+            <path d="M2891.81731,566.236702 C2892.4723,562.980723 2894.99825,559.049767 2896.52816,564.155813 C2897.09391,566.044351 2899.77604,566.827744 2900.68442,564.752102 C2901.2167,563.536793 2901.85257,562.637989 2902.65737,561.837109 C2903.51476,563.117118 2903.99126,564.587729 2904.48848,566.236702 C2905.40324,569.2741 2909.79855,567.973107 2908.87263,564.90948 C2907.92919,561.779404 2906.92518,558.836433 2904.49804,556.738058 C2903.71556,556.059583 2902.66374,555.683624 2901.74261,556.346361 C2900.71151,557.089535 2899.78719,557.890415 2898.97443,558.799711 C2897.74572,557.16123 2896.05803,556.10155 2893.85241,556.552701 C2892.74004,556.778276 2891.79978,557.316859 2890.98542,558.023312 C2889.71687,556.355104 2886.55664,557.715551 2887.05227,560.41546 C2887.38056,562.200827 2887.56224,563.764117 2887.35029,565.575714 C2887.01721,568.378793 2891.26909,568.948852 2891.81731,566.236702 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+            <path d="M2917.58576,576.873639 C2917.58576,577.769162 2916.86595,578.498911 2915.98094,578.498911 L2847.01737,578.498911 C2846.13405,578.498911 2845.41424,577.769162 2845.41424,576.873639 L2845.41424,480.12807 C2845.41424,479.232547 2846.13405,478.502798 2847.01737,478.502798 L2915.98094,478.502798 C2916.86595,478.502798 2917.58576,479.232547 2917.58576,480.12807 L2917.58576,524.678645 C2919.57156,523.355868 2921.908,521.874153 2924,520.568466 L2924,480.12807 C2924,475.645327 2920.40263,472 2915.98094,472 L2847.01737,472 C2842.59737,472 2839,475.647036 2839,480.12807 L2839,576.87193 C2839,581.352964 2842.59737,585 2847.01737,585 L2915.98094,585 C2920.40263,585 2924,581.352964 2924,576.87193 L2924,557.999289 L2917.58576,559.886041 L2917.58576,576.873639 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+            <g id="Rectangle-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-108)" xlink:href="#path-107"></use>
+                <use fill="#61C8D0" fill-rule="evenodd" xlink:href="#path-107"></use>
+            </g>
+            <text id="Paper-Case-File" font-family="Nunito-Bold, Nunito" font-size="18" font-weight="bold" fill="#000000">
+                <tspan x="2418" y="1229">Paper Case File</tspan>
+            </text>
+            <g id="Rectangle-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-110)" xlink:href="#path-109"></use>
+                <use fill="#98DCE1" fill-rule="evenodd" xlink:href="#path-109"></use>
+            </g>
+            <text id="Animal-case-file-OPE" font-family="Nunito-Bold, Nunito" font-size="18" font-weight="bold" fill="#000000">
+                <tspan x="2396" y="530">Animal case </tspan>
+                <tspan x="2396" y="554">file OPEN</tspan>
+            </text>
+            <path d="M2538.92194,462 C2539.06579,462 2539.21392,462.016361 2539.35575,462.042896 L2566.91822,467.198722 C2567.24364,467.259767 2567.54584,467.393406 2567.82508,467.585477 C2568.10445,467.777549 2568.34419,468.0649 2568.53497,468.358851 C2568.72538,468.652665 2568.85648,468.953215 2568.92916,469.304086 C2569.00222,469.655094 2569.02455,470.023702 2568.96866,470.378285 L2551.57935,580.712974 C2551.52345,581.067832 2551.40081,581.396705 2551.22453,581.701105 C2551.04826,582.005505 2550.82391,582.30963 2550.55426,582.517376 C2550.28449,582.725121 2549.96941,582.867559 2549.64728,582.947165 C2549.32514,583.026909 2548.98697,583.00766 2548.66155,582.947165 L2521.09895,577.79134 C2520.77328,577.730845 2520.43209,577.596656 2520.1526,577.404584 C2519.87324,577.212513 2519.63349,576.968058 2519.44283,576.674107 C2519.25205,576.380156 2519.12145,576.037122 2519.04852,575.685976 C2518.97559,575.334967 2518.99262,574.966773 2519.04852,574.611777 L2536.4377,464.277087 C2536.48767,463.961001 2536.56741,463.653301 2536.71378,463.374887 C2536.86028,463.09661 2537.08021,462.851192 2537.30532,462.644547 C2537.53042,462.437764 2537.77786,462.281989 2538.05445,462.171861 C2538.33104,462.061732 2538.62743,462.000137 2538.92194,462 Z M2546.05896,473.085024 C2545.74376,473.079525 2545.40824,473.136583 2545.1126,473.256885 C2544.81722,473.377325 2544.55855,473.585346 2544.32398,473.815502 C2544.08966,474.04497 2543.87351,474.324347 2543.73257,474.631772 C2543.59175,474.939197 2543.52374,475.277694 2543.49598,475.619903 C2543.46809,475.962387 2543.48576,476.278474 2543.57484,476.608172 C2543.66405,476.937732 2543.81509,477.282279 2544.00853,477.553406 C2544.20246,477.824672 2544.447,478.02293 2544.71842,478.197816 C2544.98958,478.373251 2545.27449,478.529988 2545.58578,478.584571 L2556.19289,480.603868 C2556.5207,480.672612 2556.8518,480.635765 2557.17873,480.560971 C2557.50529,480.486177 2557.85027,480.337827 2558.12509,480.131319 C2558.39966,479.924811 2558.6153,479.664133 2558.79536,479.357945 C2558.97554,479.05162 2559.09289,478.728247 2559.15018,478.369677 C2559.20772,478.011656 2559.22437,477.650336 2559.15018,477.295615 C2559.07611,476.941032 2558.91056,476.560463 2558.71649,476.26445 C2558.5223,475.968437 2558.29064,475.725082 2558.00673,475.53411 C2557.7227,475.342588 2557.39009,475.204137 2557.06038,475.147355 L2546.4534,473.128058 C2546.31296,473.098911 2546.20192,473.087774 2546.05896,473.085024 Z M2544.4817,482.881093 C2544.1665,482.875593 2543.83099,482.932651 2543.53535,483.052953 C2543.23996,483.173393 2542.98129,483.381551 2542.74672,483.61157 C2542.5124,483.841038 2542.29626,484.120415 2542.15531,484.42784 C2542.0145,484.735265 2541.94648,485.073762 2541.91872,485.415971 C2541.89084,485.758456 2541.9085,486.074542 2541.99759,486.40424 C2542.0868,486.7338 2542.23783,487.03545 2542.43127,487.306441 C2542.62521,487.577843 2542.86975,487.819136 2543.14116,487.993884 C2543.41232,488.169319 2543.69724,488.28316 2544.00853,488.337606 L2554.61563,490.357039 C2554.94345,490.425646 2555.27455,490.431833 2555.60148,490.357039 C2555.92803,490.282245 2556.27301,490.133895 2556.54783,489.927387 C2556.8224,489.720879 2557.03804,489.460201 2557.2181,489.154013 C2557.39829,488.847689 2557.51564,488.524178 2557.57292,488.165745 C2557.63046,487.807587 2557.64712,487.40337 2557.57292,487.048787 C2557.49885,486.694066 2557.3333,486.356531 2557.13924,486.060518 C2556.94505,485.764505 2556.71338,485.521288 2556.42947,485.330178 C2556.14544,485.138657 2555.81283,485.000205 2555.48312,484.943423 L2544.87614,482.924126 C2544.7357,482.894841 2544.62466,482.883842 2544.4817,482.881093 Z M2542.90445,492.677161 C2542.58925,492.671661 2542.25361,492.728719 2541.95809,492.849021 C2541.6627,492.969462 2541.40403,493.134723 2541.16947,493.364604 C2540.93515,493.594348 2540.75824,493.873587 2540.61755,494.180874 C2540.47661,494.488574 2540.36923,494.826796 2540.34147,495.169143 C2540.31358,495.51149 2540.33125,495.87061 2540.42033,496.200308 C2540.50954,496.529868 2540.66058,496.831518 2540.85401,497.102509 C2541.04795,497.374049 2541.29224,497.615066 2541.56391,497.789952 C2541.83507,497.965388 2542.15935,498.079228 2542.47076,498.133674 L2553.03838,500.153107 C2553.36619,500.221714 2553.73691,500.227901 2554.06359,500.153107 C2554.39027,500.078314 2554.69576,499.929963 2554.97058,499.723455 C2555.24514,499.516947 2555.46079,499.256269 2555.64085,498.950081 C2555.82103,498.643757 2555.97762,498.277212 2556.03516,497.918916 C2556.0927,497.560621 2556.06999,497.199438 2555.99567,496.844855 C2555.9216,496.490134 2555.79554,496.152599 2555.60148,495.856586 C2555.40716,495.560573 2555.13613,495.317218 2554.85222,495.126246 C2554.56819,494.934725 2554.2752,494.796274 2553.94523,494.739491 L2543.33825,492.720195 C2543.19794,492.691047 2543.04741,492.67991 2542.90445,492.677161 Z M2538.40939,550.766153 C2534.2862,550.766153 2530.91731,554.47986 2530.91731,558.97244 C2530.91731,563.458283 2534.2862,567.178864 2538.40939,567.178864 C2542.53234,567.178864 2545.94073,563.458283 2545.94073,558.97244 C2545.94073,554.47986 2542.53234,550.766153 2538.40939,550.766153 Z" id="Shape" fill="#000000"></path>
+            <path d="M2624.9923,467 C2627.74138,467 2630,469.469285 2630,472.474609 L2630,577.525391 C2630,580.530715 2627.74138,583 2624.9923,583 L2602.00398,583 C2601.09851,583 2600.21828,582.734049 2599.48038,582.267119 C2598.74563,582.733636 2597.89922,583 2596.99615,583 L2574.0077,583 C2571.25875,583 2569,580.513748 2569,577.525391 L2569,472.474609 C2569,469.485976 2571.25875,467 2574.0077,467 L2596.99615,467 C2597.89922,467 2598.74551,467.264295 2599.48038,467.732744 C2600.21828,467.263744 2601.09838,467 2602.00398,467 L2624.9923,467 Z M2618.88053,476.957697 L2608.11575,476.957697 C2607.78238,476.95218 2607.43943,477.037289 2607.12991,477.173161 C2606.82089,477.309033 2606.53926,477.520773 2606.30191,477.776654 C2606.06457,478.032397 2605.87845,478.302624 2605.74988,478.638786 C2605.62117,478.974949 2605.55266,479.351942 2605.55266,479.716521 C2605.55266,480.080823 2605.62117,480.457954 2605.74988,480.794117 C2605.87845,481.130418 2606.06457,481.443544 2606.30191,481.699287 C2606.53926,481.955444 2606.82064,482.16677 2607.12991,482.302918 C2607.4393,482.438652 2607.78238,482.48031 2608.11575,482.475344 L2618.88053,482.475344 C2619.21364,482.480862 2619.51736,482.438652 2619.82688,482.302918 C2620.13589,482.16677 2620.41753,481.955444 2620.65487,481.699287 C2620.89221,481.443544 2621.11757,481.130418 2621.2464,480.794117 C2621.37498,480.457954 2621.44349,480.080823 2621.44349,479.716521 C2621.44349,479.351942 2621.37498,478.974949 2621.2464,478.638786 C2621.11757,478.302624 2620.89221,478.032397 2620.65487,477.776654 C2620.41753,477.520773 2620.13614,477.309033 2619.82688,477.173161 C2619.51749,477.037289 2619.21364,476.952318 2618.88053,476.957697 Z M2590.88425,476.957697 L2580.15897,476.957697 C2579.8256,476.95218 2579.48252,477.037289 2579.17325,477.173161 C2578.86398,477.309033 2578.58248,477.520773 2578.34526,477.776654 C2578.10779,478.032397 2577.9218,478.302624 2577.79309,478.638786 C2577.66452,478.974949 2577.596,479.351942 2577.596,479.716521 C2577.596,480.080823 2577.66452,480.457954 2577.79309,480.794117 C2577.9218,481.130418 2578.10779,481.443544 2578.34526,481.699287 C2578.58248,481.955444 2578.86398,482.16677 2579.17325,482.302918 C2579.48252,482.438652 2579.8256,482.48031 2580.15897,482.475344 L2590.88425,482.475344 C2591.21775,482.480862 2591.56083,482.438652 2591.8701,482.302918 C2592.17936,482.16677 2592.46062,481.955444 2592.69821,481.699287 C2592.93543,481.443544 2593.12155,481.130418 2593.25012,480.794117 C2593.37908,480.457954 2593.44734,480.080823 2593.44734,479.716521 C2593.44734,479.351942 2593.37908,478.974949 2593.25012,478.638786 C2593.12155,478.302624 2592.93543,478.032397 2592.69821,477.776654 C2592.46062,477.520773 2592.17936,477.309033 2591.8701,477.173161 C2591.56083,477.037289 2591.21775,476.952318 2590.88425,476.957697 Z M2618.88053,486.915257 L2608.11575,486.915257 C2607.78238,486.909739 2607.43943,486.994711 2607.12991,487.130859 C2606.82089,487.266455 2606.53926,487.47847 2606.30191,487.734213 C2606.06457,487.990232 2605.87845,488.303359 2605.74988,488.639521 C2605.62117,488.975684 2605.55266,489.309639 2605.55266,489.67408 C2605.55266,490.038521 2605.62117,490.415652 2605.74988,490.751814 C2605.87845,491.087839 2606.06457,491.401103 2606.30191,491.656984 C2606.53926,491.912865 2606.82064,492.124605 2607.12991,492.260477 C2607.4393,492.396349 2607.78238,492.438007 2608.11575,492.432903 L2618.88053,492.432903 C2619.21364,492.438421 2619.51736,492.396349 2619.82688,492.260477 C2620.13589,492.124605 2620.41753,491.912865 2620.65487,491.656984 C2620.89221,491.401103 2621.11757,491.087839 2621.2464,490.751814 C2621.37498,490.415652 2621.44349,490.038521 2621.44349,489.67408 C2621.44349,489.309639 2621.37498,488.975684 2621.2464,488.639521 C2621.11757,488.303359 2620.89221,487.990232 2620.65487,487.734213 C2620.41753,487.47847 2620.13614,487.266593 2619.82688,487.130859 C2619.51749,486.994711 2619.21364,486.910015 2618.88053,486.915257 Z M2590.88425,486.915257 L2580.15897,486.915257 C2579.8256,486.909739 2579.48252,486.994711 2579.17325,487.130859 C2578.86398,487.266455 2578.58248,487.47847 2578.34526,487.734213 C2578.10779,487.990232 2577.9218,488.303359 2577.79309,488.639521 C2577.66452,488.975684 2577.596,489.309639 2577.596,489.67408 C2577.596,490.038521 2577.66452,490.415652 2577.79309,490.751814 C2577.9218,491.087839 2578.10779,491.401103 2578.34526,491.656984 C2578.58248,491.912865 2578.86398,492.124605 2579.17325,492.260477 C2579.48252,492.396349 2579.8256,492.438007 2580.15897,492.432903 L2590.88425,492.432903 C2591.21775,492.438421 2591.56083,492.396349 2591.8701,492.260477 C2592.17936,492.124605 2592.46062,491.912865 2592.69821,491.656984 C2592.93543,491.401103 2593.12155,491.087839 2593.25012,490.751814 C2593.37908,490.415652 2593.44734,490.038521 2593.44734,489.67408 C2593.44734,489.309639 2593.37908,488.975684 2593.25012,488.639521 C2593.12155,488.303359 2592.93543,487.990232 2592.69821,487.734213 C2592.46062,487.47847 2592.17936,487.266593 2591.8701,487.130859 C2591.56083,486.994711 2591.21775,486.910015 2590.88425,486.915257 Z M2618.88053,496.915991 L2608.11575,496.915991 C2607.78238,496.910474 2607.43943,496.952546 2607.12991,497.088418 C2606.82089,497.22429 2606.53926,497.43603 2606.30191,497.691911 C2606.06457,497.947653 2605.87845,498.261194 2605.74988,498.59708 C2605.62117,498.933243 2605.55266,499.310374 2605.55266,499.674815 C2605.55266,500.039255 2605.62117,500.416387 2605.74988,500.752549 C2605.87845,501.088712 2606.06457,501.358525 2606.30191,501.614682 C2606.53926,501.870424 2606.82064,502.082302 2607.12991,502.218036 C2607.4393,502.354184 2607.78238,502.438742 2608.11575,502.433638 L2618.88053,502.433638 C2619.21364,502.439156 2619.51736,502.354184 2619.82688,502.218036 C2620.13589,502.082302 2620.41753,501.870424 2620.65487,501.614682 C2620.89221,501.358525 2621.11757,501.088712 2621.2464,500.752549 C2621.37498,500.416387 2621.44349,500.039255 2621.44349,499.674815 C2621.44349,499.310374 2621.37498,498.933243 2621.2464,498.59708 C2621.11757,498.261194 2620.89221,497.947653 2620.65487,497.691911 C2620.41753,497.43603 2620.13614,497.22429 2619.82688,497.088418 C2619.51749,496.952546 2619.21364,496.91075 2618.88053,496.915991 Z M2590.88425,496.915991 L2580.15897,496.915991 C2579.8256,496.910474 2579.48252,496.952546 2579.17325,497.088418 C2578.86398,497.22429 2578.58248,497.43603 2578.34526,497.691911 C2578.10779,497.947653 2577.9218,498.261194 2577.79309,498.59708 C2577.66452,498.933243 2577.596,499.310374 2577.596,499.674815 C2577.596,500.039255 2577.66452,500.416387 2577.79309,500.752549 C2577.9218,501.088712 2578.10779,501.358525 2578.34526,501.614682 C2578.58248,501.870424 2578.86398,502.082302 2579.17325,502.218036 C2579.48252,502.354184 2579.8256,502.438742 2580.15897,502.433638 L2590.88425,502.433638 C2591.21775,502.439156 2591.56083,502.354184 2591.8701,502.218036 C2592.17936,502.082302 2592.46062,501.870424 2592.69821,501.614682 C2592.93543,501.358525 2593.12155,501.088712 2593.25012,500.752549 C2593.37908,500.416387 2593.44734,500.039255 2593.44734,499.674815 C2593.44734,499.310374 2593.37908,498.933243 2593.25012,498.59708 C2593.12155,498.261194 2592.93543,497.947653 2592.69821,497.691911 C2592.46062,497.43603 2592.17936,497.22429 2591.8701,497.088418 C2591.56083,496.952546 2591.21775,496.91075 2590.88425,496.915991 Z M2613.47839,552.178701 C2609.35521,552.178701 2605.98646,555.904354 2605.98646,560.412133 C2605.98646,564.912326 2609.34764,568.645428 2613.47839,568.645428 C2617.60914,568.645428 2621.00969,564.912326 2621.00969,560.412133 C2621.00969,555.904354 2617.60144,552.178701 2613.47839,552.178701 Z M2585.52161,552.178701 C2581.39868,552.178701 2577.99031,555.904354 2577.99031,560.412133 C2577.99031,564.912326 2581.39111,568.645428 2585.52161,568.645428 C2589.65248,568.645428 2593.05303,564.912326 2593.05303,560.412133 C2593.05303,555.904354 2589.64479,552.178701 2585.52161,552.178701 Z" id="Shape" fill="#000000"></path>
+            <g id="Rectangle-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-112)" xlink:href="#path-111"></use>
+                <use fill="#98DCE1" fill-rule="evenodd" xlink:href="#path-111"></use>
+            </g>
+            <path d="M546.593628,726.025242 C546.392631,724.544213 545.027969,723.438731 543.568098,723.623859 C542.079135,723.762706 540.964396,725.053317 541.043737,726.548891 C541.838467,741.392239 530.724139,745.451845 525.428138,746.542782 C522.675011,725.591512 498.018524,696.818558 493.752632,694.692224 C492.485823,693.729555 491.1767,687.267244 490.920164,680.875017 C491.326125,680.37517 491.709606,679.830363 492.069284,679.241919 C498.59639,668.515038 489.067556,647.636497 481.680924,643.021505 C474.341897,638.428993 456.642279,647.747574 453.171117,649.661011 C452.718875,649.909612 452.34465,650.279869 452.09076,650.728145 L446.031765,661.420645 L430.35666,663.972775 C429.04357,664.186995 428.065033,665.296445 428.017428,666.625404 C427.964534,668.142136 427.67494,681.615532 434.071134,687.632212 C436.358794,689.787638 439.286471,690.762208 442.534156,690.443522 C451.653063,689.568128 455.954658,691.489499 457.12758,692.404563 C457.037661,692.747051 456.914682,693.18607 456.774514,693.705753 C454.341395,702.680524 447.056584,729.555909 463.187898,742.042834 L463.187898,759.993698 C459.699546,761.60035 453.809811,765.009361 453.704023,769.739397 L453.704023,771.209847 C453.704023,772.750382 454.952319,773.998678 456.492854,773.998678 L470.894538,773.998678 C470.663127,772.713356 470.98049,771.236294 471.6734,770.12949 C472.357054,769.000205 473.27344,768.172416 474.200406,767.491407 C476.079461,766.157158 478.07885,765.322757 480.07295,764.623236 C481.526209,764.119421 482.99137,763.726684 484.460498,763.372295 C483.743786,762.812942 483.064099,762.198051 482.467721,761.449602 C479.889144,758.667384 478.598533,754.753236 478.828621,751.182898 C478.987303,747.583469 480.239566,744.32785 481.749686,741.348602 C483.290221,738.369353 485.165309,735.613582 487.316768,733.118312 C485.540856,735.885985 484.094208,738.849365 483.031041,741.897376 C481.989031,744.932163 481.302733,748.130921 481.616129,751.135294 C481.884566,754.147601 483.267741,756.739401 485.425811,758.495479 C486.412282,759.468726 487.783557,760.050559 489.05301,760.699831 C490.37139,761.289598 491.896057,761.59506 493.268653,762.067138 C494.732491,762.56963 495.511354,764.164381 495.008862,765.62822 C494.659762,766.643782 493.785691,767.33008 492.79393,767.48744 L492.596901,767.517854 L492.591611,767.519176 C490.757516,767.517854 488.775317,767.627609 486.879071,767.806125 C484.968279,767.991254 483.068066,768.255724 481.233971,768.664329 C479.406487,769.068967 477.610739,769.617741 476.121776,770.437597 C474.627524,771.287866 473.641053,772.321941 473.705848,773.681314 C473.71246,773.793714 473.678078,773.894212 473.658243,774 L524.782833,774 C526.255927,774 527.476454,772.853525 527.565051,771.383075 L527.881092,766.272203 C532.660055,765.874176 536.649577,763.935615 539.758415,760.490901 C549.64825,749.545832 546.720573,726.977332 546.593628,726.025242 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+            <text id="Sheltered-Dog" font-family="Nunito-Bold, Nunito" font-size="18" font-weight="bold" fill="#000000">
+                <tspan x="327" y="744">Sheltered Dog</tspan>
+            </text>
+            <g id="Rectangle-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-114)" xlink:href="#path-113"></use>
+                <use fill="#61C8D0" fill-rule="evenodd" xlink:href="#path-113"></use>
+            </g>
+            <text id="VOLUNTEER-/STAFF-Tak" font-family="Nunito-Bold, Nunito" font-size="18" font-weight="bold" fill="#000000">
+                <tspan x="901" y="1021">VOLUNTEER /STAFF</tspan>
+                <tspan x="1073.35" y="1021" font-family="Nunito-Regular, Nunito" font-weight="normal"></tspan>
+                <tspan x="901" y="1058">Take family to look </tspan>
+                <tspan x="901" y="1082">around</tspan>
+            </text>
+            <g id="Rectangle-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-116)" xlink:href="#path-115"></use>
+                <use fill="#98DCE1" fill-rule="evenodd" xlink:href="#path-115"></use>
+            </g>
+            <text id="Goes-with-family-to" font-family="Nunito-Bold, Nunito" font-size="18" font-weight="bold" fill="#000000">
+                <tspan x="3002" y="742">Goes with family </tspan>
+                <tspan x="3002" y="766">to their home</tspan>
+            </text>
+            <path d="M3198.29475,645.552436 C3198.9117,645.605072 3199.51035,645.855469 3199.98225,646.257457 L3262.98225,700.397249 C3264.17265,701.430567 3264.29445,703.433439 3263.2635,704.62677 C3262.2327,705.820192 3260.23515,705.989228 3259.04475,704.95582 L3198.0135,652.507896 L3136.98225,704.95582 C3135.79185,705.989228 3133.74735,705.820192 3132.7167,704.62677 C3131.68559,703.433439 3131.85434,701.430567 3133.04475,700.397249 L3196.04475,646.257457 C3196.65885,645.731699 3197.49135,645.470926 3198.29475,645.552436 Z M3169.5135,645.645677 L3169.5135,665.055244 L3157.5135,675.39444 L3157.5135,645.645677 L3169.5135,645.645677 Z M3198.0135,657.582749 L3246.0135,698.187594 L3246.0135,771.877807 L3150.0135,771.877807 L3150.0135,698.187594 L3198.0135,657.582749 Z M3228.0135,699.691477 L3201.0135,699.691477 L3201.0135,726.761313 L3228.0135,726.761313 L3228.0135,699.691477 Z M3195.0135,699.691477 L3168.0135,699.691477 L3168.0135,726.761313 L3195.0135,726.761313 L3195.0135,699.691477 Z M3228.0135,732.776845 L3201.0135,732.776845 L3201.0135,759.846742 L3228.0135,759.846742 L3228.0135,732.776845 Z M3195.0135,732.776845 L3168.0135,732.776845 L3168.0135,759.846742 L3195.0135,759.846742 L3195.0135,732.776845 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+            <g id="Rectangle-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-118)" xlink:href="#path-117"></use>
+                <use fill="#98DCE1" fill-rule="evenodd" xlink:href="#path-117"></use>
+            </g>
+            <text id="Dogs-get-introduced" font-family="Nunito-Bold, Nunito" font-size="18" font-weight="bold" fill="#000000">
+                <tspan x="2116" y="726">Dogs get </tspan>
+                <tspan x="2116" y="750">introduced to </tspan>
+                <tspan x="2116" y="774">family</tspan>
+            </text>
+            <path d="M2397,783.197337 C2397,784.550347 2395.58217,786 2393.876,786 C2390.33565,786 2388.42553,784.657087 2388.42553,782.134258 C2388.42553,779.611429 2388.42553,772.500194 2388.42553,772.500194 C2388.38895,772.146796 2388.20891,771.630402 2387.51125,771.630402 C2386.77561,771.630402 2386.60261,772.112178 2386.57447,772.534813 C2386.57447,772.534813 2386.57447,779.667684 2386.57447,782.132816 C2386.57447,784.596505 2384.66575,785.998558 2381.124,785.998558 C2379.41783,785.998558 2378,784.548904 2378,783.195895 C2378,780.266297 2380.85816,780.009542 2380.85816,780.009542 L2380.85816,760 C2383.08898,762.554563 2387.5,762.638225 2387.5,762.638225 C2387.5,762.638225 2391.91242,762.553121 2394.14325,760 L2394.14325,780.010985 C2394.14325,780.010985 2397,780.267739 2397,783.197337 Z M2379,779.642029 C2379,779.642029 2379,767.777589 2378.99871,767.770517 C2367.95886,763.245678 2374.62565,780.127187 2374.62565,780.127187 C2374.62565,780.127187 2372,780.377545 2372,783.251716 C2372,784.578474 2373.30185,786 2374.86845,786 C2376.15221,786 2377.1286,785.350766 2377.1286,785.350766 C2375.06218,781.578417 2378.24705,779.642029 2379,779.642029 Z M2401.54974,777.136445 C2401.03445,778.871818 2400.52182,780.127736 2400.52182,780.127736 C2400.52182,780.127736 2403.23445,780.378071 2403.23445,783.251973 C2403.23445,784.578607 2401.88882,786 2400.26952,786 C2398.94257,786 2397.93335,785.350826 2397.93335,785.350826 C2400.06927,781.577416 2396.77861,779.641209 2396.00033,779.641209 C2396.00033,779.641209 2395.999,767.777877 2396.00167,767.770805 C2400.67668,765.916629 2402.27862,767.65766 2402.54161,770.359014 C2408.354,772.091559 2410,767 2410,767 C2409.57949,774.473277 2402.62972,776.815394 2401.54974,777.136445 Z M2377.66187,750.739346 C2378.54017,748.788641 2380.61917,744.47519 2381.59613,744.954942 C2381.59613,744.954942 2378.38035,751.913515 2378.38035,752.795223 C2378.38035,753.666845 2378.69859,755.624754 2379.88957,757.424187 C2380.96937,759.056498 2383.07895,761 2386.99792,761 C2394.15212,761 2395.61548,754.528383 2395.61548,752.795223 C2395.61548,751.969703 2392.38302,744.962146 2392.38302,744.962146 C2393.35165,744.416121 2395.45288,748.774234 2396.33674,750.737906 C2397.25255,752.772172 2400,753.857017 2400,749.177629 C2400,744.616378 2395.15966,740.294283 2393.45866,740.023432 C2392.20236,739.823175 2391.16425,740.957004 2390.76124,741.503029 C2389.73841,741.039124 2388.49324,740.811494 2386.98819,740.811494 C2385.47619,740.811494 2384.22823,741.042005 2383.20124,741.508792 C2382.78572,740.945479 2381.77679,739.826056 2380.54134,740.023432 C2378.84034,740.294283 2374,744.616378 2374,749.177629 C2374,753.858458 2376.74606,752.773612 2377.66187,750.739346 Z M2380.70028,738.458561 C2382.90254,737.977089 2383.69133,739.036907 2384.38221,739.691883 C2384.58354,739.638386 2384.79039,739.59501 2385,739.55308 L2377.4155,722.746362 C2373.38193,714.000334 2370.8556,708 2362.82293,708 L2348.51581,708 C2342.23585,708 2338.74974,712.204571 2335.72835,718.498415 L2335.32431,716.47999 C2335.32431,716.47999 2337.21216,711.929857 2339.59369,709.927336 C2338.79111,709.211634 2335.73249,708.001446 2333.02138,708.001446 L2318.71426,708.001446 C2310.68159,708.001446 2307.9622,714.00178 2303.93001,722.747808 L2300.93206,729.223831 C2304.27062,729.945317 2306.07297,732.524737 2307.94152,736.311454 L2314.90408,722.172354 L2310.48577,744.612156 L2308.55517,740.44084 C2305.70616,734.262665 2303.78521,730.023393 2298.11063,730.023393 L2287.99843,730.023393 C2282.32384,730.023393 2280.4029,734.262665 2277.55389,740.44084 L2272.32748,751.733034 C2271.5511,753.400115 2272.19923,755.441674 2273.80577,756.218103 C2275.9046,757.228762 2277.54423,755.865312 2278.09859,754.672475 L2285.30938,740.030215 L2280.63181,764.993049 L2285.30938,764.993049 L2285.30938,782.281239 C2285.30938,784.295327 2286.86627,785.926261 2288.78721,785.926261 C2290.70816,785.926261 2292.26505,784.293881 2292.26505,782.281239 L2292.26505,764.993049 L2293.84676,764.993049 L2293.84676,782.281239 C2293.84676,784.295327 2295.40365,785.926261 2297.3246,785.926261 C2299.24692,785.926261 2300.80244,784.293881 2300.80244,782.281239 L2300.80244,764.993049 L2305.90335,764.993049 L2300.80244,740.028769 C2300.80244,740.028769 2308.23248,755.078762 2308.38555,755.279738 L2307.23409,761.128256 L2314.90546,761.128256 L2314.90546,780.836821 C2314.90546,783.688064 2317.11048,785.998554 2319.82987,785.998554 C2322.54788,785.998554 2324.7529,783.686618 2324.7529,780.836821 L2324.7529,761.128256 L2326.95654,761.128256 L2326.95654,780.797783 C2326.95654,783.649026 2329.16156,785.959516 2331.88094,785.959516 C2334.59895,785.959516 2336.80397,783.64758 2336.80397,780.797783 L2336.80397,761.128256 L2344.28229,761.128256 L2338.85592,734.076149 L2344.73598,722.169463 L2344.73598,780.799229 C2344.73598,783.650472 2346.941,785.960962 2349.659,785.960962 C2352.37701,785.960962 2354.58203,783.649026 2354.58203,780.799229 L2354.58203,750.745509 L2356.78705,750.745509 L2356.78705,780.838267 C2356.78705,783.68951 2358.99069,786 2361.71008,786 C2364.42809,786 2366.63311,783.688064 2366.63311,780.838267 L2366.63311,722.168017 L2375.90964,741.860678 C2377.54927,740.020094 2379.41781,738.737613 2380.70028,738.458561 Z M2326,706 C2332.07618,706 2337,700.849795 2337,694.499276 C2337,688.148757 2332.07618,683 2326,683 C2319.92521,683 2315,688.147309 2315,694.497828 C2315,700.848347 2319.92521,706 2326,706 Z M2355.99861,706 C2362.07479,706 2367,700.849795 2367,694.499276 C2367,688.148757 2362.07479,683 2355.99861,683 C2349.92244,683 2345,688.147309 2345,694.497828 C2345,700.848347 2349.92244,706 2355.99861,706 Z M2292.5,728 C2296.64231,728 2300,724.418145 2300,720.000713 C2300,715.58043 2296.64231,712 2292.5,712 C2288.35769,712 2285,715.581855 2285,720.000713 C2285,724.418145 2288.35769,728 2292.5,728 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+            <g id="Rectangle-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-120)" xlink:href="#path-119"></use>
+                <use fill="#98DCE1" fill-rule="evenodd" xlink:href="#path-119"></use>
+            </g>
+            <text id="Stay-for-2-weeks" font-family="Nunito-Bold, Nunito" font-size="18" font-weight="bold" fill="#000000">
+                <tspan x="3331" y="751">Stay for 2 weeks</tspan>
+            </text>
+            <path d="M3493.76784,630 C3495.52058,630 3496.94019,631.422383 3496.94019,633.17671 L3496.94019,642.531738 L3490.59549,642.531738 L3490.59549,647.749907 C3490.59549,649.504234 3492.01592,650.926617 3493.76784,650.926617 C3495.52058,650.926617 3496.94019,649.504234 3496.94019,647.749907 L3496.94019,642.531738 L3511.0956,642.531738 C3512.14724,642.531738 3513,643.384836 3513,644.43793 L3512.99917,691.788995 C3508.50335,690.871168 3510.70361,691.138384 3506.40834,690.92179 L3505.52409,690.966602 L3505.52409,663.830962 C3505.52492,662.778698 3504.673,661.9256 3503.62135,661.924771 L3419.69827,661.924771 C3418.64745,661.9256 3417.79552,662.778698 3417.79552,663.830962 L3417.79552,718.268215 C3417.79552,719.321309 3418.64745,720.174406 3419.6991,720.174406 L3476.0166,720.174406 L3475.95444,721.417539 C3476.17074,725.712902 3475.90389,723.516259 3476.81714,728 L3412.90275,728 C3411.85193,728 3411,727.146902 3411,726.093808 L3411,644.4371 C3411,643.384836 3411.85193,642.531738 3412.90358,642.531738 L3427.73854,642.531738 L3427.73854,633.17671 C3427.73854,631.422383 3429.15897,630 3430.91089,630 C3432.66364,630 3434.08324,631.422383 3434.08324,633.17671 L3434.08324,642.531738 L3427.73854,642.531738 L3427.73854,647.749907 C3427.73854,649.504234 3429.15897,650.926617 3430.91089,650.926617 C3432.66364,650.926617 3434.08324,649.504234 3434.08324,647.749907 L3434.08324,642.531738 L3490.59549,642.531738 L3490.59549,633.17671 C3490.59549,631.422383 3492.01592,630 3493.76784,630 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+            <path d="M3441.92355,695 C3443.07078,695.000829 3444.00083,695.930006 3444,697.077178 L3444,710.922822 C3444.00083,712.069994 3443.07078,713 3441.92355,713 L3428.07727,713 C3426.93005,713 3426,712.069994 3426,710.922822 L3426,697.077178 C3426,695.930006 3426.93005,695.000829 3428.07644,695 L3441.92355,695 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+            <path d="M3468.92273,695 C3470.07078,695.000829 3471,695.930006 3471,697.077178 L3471,710.922822 C3471,712.069994 3470.07078,713 3468.92273,713 L3455.07644,713 C3453.93005,713 3453,712.069994 3453,710.922822 L3453,697.077178 C3453,695.930006 3453.93005,695.000829 3455.07644,695 L3468.92273,695 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+            <path d="M3441.92355,671 C3443.07078,671 3444.00083,671.930006 3444,673.077178 L3444,686.922822 C3444.00083,688.069994 3443.07078,689 3441.92355,689 L3428.07727,689 C3426.93005,689 3426,688.069994 3426,686.922822 L3426,673.077178 C3426,671.930006 3426.93005,671 3428.07644,671 L3441.92355,671 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+            <path d="M3495.92356,671 C3497.07078,671 3498,671.930006 3498,673.077178 L3498,686.922822 C3498,688.069994 3497.07078,689 3495.92356,689 L3482.07727,689 C3480.93005,689 3480,688.069994 3480,686.922822 L3480,673.077178 C3480,671.930006 3480.93005,671 3482.07644,671 L3495.92356,671 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+            <path d="M3468.92273,671 C3470.07078,671 3471,671.930006 3471,673.077178 L3471,686.922822 C3471,688.069994 3470.07078,689 3468.92273,689 L3455.07644,689 C3453.93005,689 3453,688.069994 3453,686.922822 L3453,673.077178 C3453,671.930006 3453.93005,671 3455.07644,671 L3468.92273,671 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+            <path d="M3505.99958,695 C3520.35889,695 3532,706.641106 3532,720.999582 C3532,735.35973 3520.35889,747 3505.99958,747 C3491.64027,747 3480,735.35973 3480,720.999582 C3480,706.641106 3491.64027,695 3505.99958,695 Z M3504.15738,699.948722 C3502.7511,699.962084 3501.62122,701.111998 3501.63459,702.518284 L3501.63459,724.844321 L3501.63375,724.845991 L3501.63459,724.846826 L3501.63459,724.869373 L3501.7348,725.345372 C3501.7682,725.509049 3501.8016,725.673561 3501.83417,725.837238 C3501.83668,725.838909 3501.83835,725.840579 3501.84002,725.843084 C3501.84169,725.848095 3501.84252,725.853105 3501.84336,725.858116 C3502.06883,726.080249 3502.29514,726.301547 3502.52061,726.522844 C3502.74358,726.745813 3502.96655,726.968781 3503.18952,727.191749 C3503.19453,727.193419 3503.19954,727.194254 3503.20538,727.195089 C3503.20705,727.197594 3503.20956,727.199264 3503.21123,727.200935 C3503.37491,727.232668 3503.53942,727.264401 3503.70309,727.295299 L3504.18076,727.392169 L3518.88747,727.392169 C3520.29376,727.392169 3521.43449,726.252276 3521.43449,724.845991 C3521.43449,723.439705 3520.29376,722.298977 3518.88747,722.298977 L3506.72694,722.298977 L3506.72694,702.471519 C3506.71442,701.066068 3505.56367,699.936196 3504.15738,699.948722 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+            <g id="Group-6" transform="translate(882.000000, 697.000000)">
+                <g id="Rectangle-2">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-122)" xlink:href="#path-121"></use>
+                    <use fill="#98DCE1" fill-rule="evenodd" xlink:href="#path-121"></use>
+                </g>
+                <text id="Dogs-get-viewed-&amp;-vi" font-family="Nunito-Bold, Nunito" font-size="18" font-weight="bold" fill="#000000">
+                    <tspan x="34" y="28">Dogs get viewed </tspan>
+                    <tspan x="34" y="52">&amp; view Interested </tspan>
+                    <tspan x="34" y="76">Dogs</tspan>
+                </text>
+            </g>
+            <g id="Group" transform="translate(1078.000000, 652.000000)" fill="#000000" fill-rule="nonzero">
+                <polygon id="Shape" points="19.003 58.001 19.002 58 19 58.001"></polygon>
+                <path d="M157.476688,36.442626 L164.384736,40.6015312 L166.032976,34.1716274 L110.935964,1 L55.8405467,34.1710975 L57.4877238,40.6025909 L57.4877238,40.6010013 L64.3973662,36.4410364 L64.3973662,95.9161895 L44,95.9161895 L44,99 L174,99 L174,95.9161895 L157.476688,95.9161895 L157.476688,36.442626 Z M68.4366695,34.0094889 L110.935964,8.42286959 L153.436853,34.0105486 L153.436853,95.9161895 L68.4366695,95.9161895 L68.4366695,34.0094889 Z" id="Shape"></path>
+                <path d="M40.8331467,39.8276411 C41.1473864,40.4726597 41.4637458,41.2127057 41.7758659,42.0764466 C43.2707567,46.2236772 44.5266557,53.0284905 44.5213566,63.6508583 C44.5213566,66.5781278 44.4275616,69.793134 44.2224844,73.3250752 C44.0857663,75.6662538 45.8699908,77.6756326 48.2079767,77.8125995 C48.2911734,77.8168466 48.3743701,77.8200319 48.4575668,77.8200319 C50.6858603,77.8200319 52.5559311,76.0771545 52.68735,73.8198549 C52.9003759,70.1387365 53,66.7596886 53,63.6513891 C52.9793333,47.6283844 50.425142,38.7589807 46.9404195,33.4278889 C45.200178,30.7803929 43.1631839,29.0826402 41.2819849,28.1424527 C39.4802732,27.2319943 37.8968865,27.0238896 36.9398596,27.0100867 C36.8725604,27.0069014 36.8057911,27 36.737432,27 L16.2641577,27 C16.1904995,27 16.118961,27.0074323 16.0463626,27.0111485 C15.087216,27.0254822 13.5112482,27.2362414 11.7174852,28.1424527 C8.86707127,29.5577774 5.79462286,32.6549283 3.64369701,38.1442223 C1.46839506,43.6536896 0.00688889778,51.621129 0,63.6503274 C0,66.7580959 0.0990941449,70.1397983 0.314769637,73.8203858 C0.44724844,76.0776854 2.31519957,77.819501 4.54402296,77.819501 C4.62721964,77.819501 4.71094625,77.8173775 4.79520277,77.8120687 C7.13212886,77.67404 8.91635338,75.6646611 8.77857543,73.3234826 C8.57243841,69.7926031 8.47864342,66.577066 8.47864342,63.6503274 C8.46009638,50.7934879 10.331227,43.5719342 12.168973,39.8026898 L12.168973,119.436737 C12.168973,123.062644 15.1031135,126 18.7203147,126 C22.3385758,126 25.2727164,123.062644 25.2727164,119.436737 L25.2727164,71.5137144 L27.7288734,71.5137144 L27.7288734,119.436737 C27.7288734,123.062644 30.6630139,126 34.2802152,126 C37.8984762,126 40.8326168,123.062644 40.8326168,119.436737 L40.8326168,39.8276411 L40.8331467,39.8276411 Z" id="Shape"></path>
+                <path d="M28.9546667,23.8389333 C34.6528,22.9050667 39,17.9616 39,12 C39,5.37226667 33.6282667,0 27,0 C20.3728,0 15,5.37226667 15,12 C15,17.9621333 19.3482667,22.9050667 25.0458667,23.8389333 C25.6816,23.9429333 26.3344,24 27,24 C27.6656,24 28.3178667,23.9429333 28.9546667,23.8389333 Z" id="Shape"></path>
+                <path d="M103,57.6802223 C102.522441,54.5161286 100.674565,50.0660008 97.1726428,48.31189 C97.617983,46.1508925 97.4444198,44.320425 95.1693913,42.8095049 C93.255,41.5391605 90.8427839,41.9141449 91.7126783,42.9020743 C94.1992044,45.7330229 92.4058916,48.0394118 92.2920882,48.1178605 C92.152822,48.2125218 90.3699022,50.7432737 87.8932494,51.2960749 C86.1477444,51.685703 81.3446177,52.1647624 81.0993428,54.3163461 C80.852509,56.4940794 81.051535,56.9762768 81.8554339,58.2319775 C83.006459,60.0300195 86.5203336,59.1644699 88.7683403,59.8689383 C89.9089725,60.224572 92.3528873,63.4430567 93.3610087,65 C94.7193743,64.66424 95.8631243,64.1914564 96.8785208,63.6946152 C98.5840127,62.2673736 100.68288,60.3014516 103,57.6802223 Z M93.4794889,53.3995435 C93.3506157,54.3367428 92.4957911,54.9883892 91.573412,54.8576415 C90.6489543,54.7263708 90.0061471,53.8608212 90.1350203,52.9236219 C90.2638935,51.9874686 91.1187181,51.3337302 92.0421365,51.4655239 C92.9660745,51.5973175 93.6094015,52.4628671 93.4794889,53.3995435 Z" id="Shape"></path>
+                <path d="M141.99424,50.3895751 C140.954621,49.6870912 139.540845,49.9600139 138.8385,51.0039166 C135.364193,56.1947571 130.777039,58.6276982 126.930179,59.7581502 C117.563981,54.7467802 114.742844,63.5498639 104.009373,60.2031098 C100.145409,64.4073933 96.8822326,66.9205119 94.9729672,68.2123813 C94.9050846,68.3679579 94.8489612,68.5309681 94.8126146,68.7040669 L94.8115456,68.703005 L91.0555523,86.8082915 C90.7797458,88.1352054 91.5547835,89.4546856 92.8509673,89.8709724 C93.1235668,89.9580527 93.3999079,90 93.6714383,90 C94.6998332,90 95.6694322,89.4074286 96.1109365,88.4314911 L101.040711,77.5087435 C102.573148,78.3572463 104.306025,79.111235 105.620382,79.3145995 C111.827633,80.2724838 122.702749,72.6513571 123.089199,72.6168435 C125.82428,74.5469484 127.169104,89.6187578 132.069481,89.6187578 C136.968789,89.6187578 133.849395,69.6943408 133.779375,69.3152226 C133.279074,66.7176784 132.508847,64.7689893 131.527489,63.2896847 C131.480452,63.1824271 131.433416,63.0709217 131.388517,62.9764077 C135.220945,61.2995793 139.304057,58.4360151 142.609994,53.548363 C143.314477,52.5044603 143.038136,51.090466 141.99424,50.3895751 Z" id="Shape"></path>
+            </g>
+            <image id="download" x="3469" y="2147" width="113" height="113" xlink:href="data:image/png;base64,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"></image>
+            <image id="SPCA_Singapore" x="12" y="0" width="329" height="329" xlink:href="data:image/png;base64,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"></image>
+        </g>
+        <text id="©-Research-and-Desig" font-family="Raleway-Medium, Raleway" font-size="64" font-weight="400" fill="#3D3F4E">
+            <tspan x="3128.376" y="2884">© Research and Design by Joyani</tspan>
+        </text>
+    </g>
+</svg>
